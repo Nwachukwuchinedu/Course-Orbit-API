@@ -10,7 +10,19 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Enable CORS for all routes before defining routes
-app.use(cors({ origin: "https://course-orbit-api.onrender.com" }));
+const allowedOrigins = ["https://courseorbit.vercel.app"];
+
+app.use(
+  cors({
+    origin: function (origin, callback) {
+      if (!origin || allowedOrigins.indexOf(origin) !== -1) {
+        callback(null, true);
+      } else {
+        callback(new Error("Not allowed by CORS"));
+      }
+    },
+  })
+);
 
 // Middleware to parse JSON bodies
 app.use(express.json());
