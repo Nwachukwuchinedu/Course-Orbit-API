@@ -1,0 +1,1241 @@
+[
+  {
+    "id": "ë]}ón",
+    "title": "MS-500: Microsoft 365 Security Admin Practice Test 2024",
+    "image": "https://img-c.udemycdn.com/course/480x270/6119827_3152_2.jpg",
+    "description": "<p>Welcome to \"Mastering Security and Compliance in Microsoft 365\", a comprehensive course designed to equip you with the knowledge and skills needed to effectively manage and secure your Microsoft 365 environment. This course is tailored for IT professionals, security administrators, and compliance managers who are responsible for protecting organizational data and ensuring compliance within Microsoft 365.</p><p>Course Overview</p><p>Microsoft 365 offers a suite of powerful tools and services, but with these capabilities come the critical responsibilities of securing data, managing compliance, and mitigating threats. This course provides an in-depth exploration of Microsoft 365’s security and compliance features, helping you understand how to implement and manage these solutions effectively.</p><p>Key Learning Objectives</p><ol><li><p>Implement and Manage Security Solutions:</p><ul><li><p>Security Features: Learn to configure and manage Microsoft 365’s security features, including Microsoft Defender for Office 365, Microsoft Defender for Identity, and Microsoft Sentinel.</p></li><li><p>Threat Protection: Understand how to set up and manage threat protection policies to safeguard your organization against cyber threats and data breaches.</p></li></ul></li><li><p>Configure and Manage Compliance Solutions:</p><ul><li><p>Compliance Tools: Discover how to use Microsoft 365 Compliance Center to manage compliance activities, including data loss prevention (DLP), retention policies, and legal hold.</p></li><li><p>Information Governance: Implement and manage information governance solutions to ensure data integrity and regulatory compliance.</p></li></ul></li><li><p>Manage Identity and Access:</p><ul><li><p>User and Group Management: Configure and manage user identities, roles, and permissions within Microsoft 365, including Azure Active Directory (AD) and conditional access policies.</p></li><li><p>Authentication Methods: Implement and manage authentication methods, such as multi-factor authentication (MFA), to enhance security.</p></li></ul></li><li><p>Monitor and Respond to Security Incidents:</p><ul><li><p>Incident Response: Develop strategies for detecting, investigating, and responding to security incidents and breaches.</p></li><li><p>Monitoring Tools: Utilize Microsoft 365’s monitoring tools and dashboards to track security and compliance metrics, identify potential issues, and take corrective actions.</p></li></ul></li><li><p>Ensure Data Protection and Privacy:</p><ul><li><p>Data Protection Policies: Implement and manage data protection policies to safeguard sensitive information and maintain privacy.</p></li><li><p>Encryption and Rights Management: Configure encryption and rights management solutions to protect data in transit and at rest.</p></li></ul></li><li><p>Integrate Security and Compliance Across Microsoft 365 Services:</p><ul><li><p>Service Integration: Learn how to integrate security and compliance measures across Microsoft 365 services, including Exchange Online, SharePoint Online, and OneDrive for Business.</p></li><li><p>Best Practices: Apply best practices for optimizing security and compliance within a unified Microsoft 365 environment.</p></li></ul></li></ol><p>Course Structure</p><p>The course is structured into comprehensive modules that cover all aspects of Microsoft 365 security and compliance:</p><ul><li><p>Module 1: Introduction to Microsoft 365 Security and Compliance</p><ul><li><p>Overview of security and compliance features in Microsoft 365.</p></li><li><p>Setting up your security and compliance environment.</p></li></ul></li><li><p>Module 2: Security Solutions in Microsoft 365</p><ul><li><p>Configuring Microsoft Defender, threat protection, and incident response.</p></li></ul></li><li><p>Module 3: Compliance Management</p><ul><li><p>Managing compliance tools, data governance, and legal hold.</p></li></ul></li><li><p>Module 4: Identity and Access Management</p><ul><li><p>User management, authentication methods, and access policies.</p></li></ul></li><li><p>Module 5: Monitoring and Incident Response</p><ul><li><p>Using monitoring tools and developing incident response strategies.</p></li></ul></li><li><p>Module 6: Data Protection and Privacy</p><ul><li><p>Implementing data protection policies and managing encryption.</p></li></ul></li><li><p>Module 7: Integration and Best Practices</p><ul><li><p>Integrating security and compliance across Microsoft 365 services and applying best practices.</p></li></ul></li><li><p>Module 8: Exam Preparation and Capstone Project</p><ul><li><p>Review of key concepts and a capstone project to apply your skills.</p></li></ul></li></ul><p>Who Should Enroll?</p><p>This course is ideal for:</p><ul><li><p>Microsoft 365 Security Administrators and IT Security Professionals seeking to enhance their skills in managing security and compliance.</p></li><li><p>Compliance Managers responsible for ensuring regulatory compliance and managing compliance tools.</p></li><li><p>IT Administrators and IT Managers involved in securing and managing Microsoft 365 environments.</p></li><li><p>Aspiring Security Professionals and Office 365 Administrators looking to deepen their knowledge in security and compliance.</p></li></ul><p>Why Choose This Course?</p><p>\"Mastering Security and Compliance in Microsoft 365\" provides a detailed exploration of Microsoft 365’s security and compliance features, offering hands-on experience and expert guidance to prepare you for real-world challenges. Whether you're aiming for certification or looking to enhance your organization’s security posture, this course will empower you with the skills and knowledge needed to succeed.</p><p>Enroll today to start mastering Microsoft 365 security and compliance and take your expertise to the next level!</p>",
+    "id_name": "ms-500-microsoft-365-security-admin-practice-test-2024",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      { "MD ZAHEDUL ISLAM": "https://www.udemy.com/user/md-zahedul-islam-10/" }
+    ],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 962,
+    "coupon_code": "40EBE47F16120E440CA5",
+    "caption_languages": [],
+    "content_info_short": "79 questions",
+    "has_certificate": false,
+    "has_closed_caption": false,
+    "headline": "\"Mastering Security and Compliance in Microsoft 365\"",
+    "num_lectures": 0,
+    "primary_category": "IT & Software",
+    "primary_subcategory": "IT Certifications",
+    "rating": 4.8,
+    "requirements_data": [
+      "Experience with Microsoft 365:  Familiarity: Having practical experience with Microsoft 365 services and administration is beneficial. Understanding how Microsoft 365",
+      "Understanding of Security Concepts:  Security Principles: Knowledge of general security and compliance principles relevant to cloud environments will be advantageous.",
+      "Experience with IT Administration:  General IT Skills: Experience in IT administration, including managing user accounts, permissions, and settings, is recommended.",
+      "Basic Networking and Cloud Knowledge:  Networking Concepts: Understanding basic networking concepts and cloud security principles will be helpful for managing"
+    ],
+    "target_audiences": [
+      "Microsoft 365 Security Administrators, IT Security Professionals, Aspiring Security Professionals"
+    ],
+    "what_you_will_learn_data": [
+      "Implement and Manage Identity and Access (30-35%)  Configure and Manage Azure Active Directory (Azure AD): Implement and manage user identities, configure multi",
+      "Implement and Manage Threat Protection (30-35%)  Manage Microsoft Defender for Office 365: Implement and configure threat protection policies, including anti-ph",
+      "Implement and Manage Information Protection (20-25%)  Manage Data Loss Prevention (DLP): Configure and manage DLP policies to protect sensitive data and prevent",
+      "Implement and Manage Security and Compliance Solutions (10-15%)  Manage Security Reports and Alerts: Use security and compliance tools to monitor, analyze, and"
+    ]
+  },
+  {
+    "id": "ã½vÓm",
+    "title": "Effective Email Communication: Mastering the Basics",
+    "image": "https://img-c.udemycdn.com/course/480x270/4712020_37d3_2.jpg",
+    "description": "<p>In this course, we will discuss: </p><p>1. What is the meaning of Email</p><p>2. What are the three methods of communication</p><p>3. Email is only one of the ways of written communication. Discuss.</p><p>4. Why email is preferred over letters as a means of communication?</p><p>5. What are the various types of email?</p><p>6. What are the advantages of email?</p><p>7. DO’s and Don’ts in email writing or Tips for writing email</p><p>8. Understanding the format of email in detail</p><p>9. What is the meaning of “Cc” and “Bcc” in email?</p><p>10. The body of the email is usually divided into three sub categories. What are those?</p><p>11. Whether we have to mention “date” while writing the email?</p><p>12. In how many days does an email take to reach a person living in another country?</p><p>13. Understanding Formal/Informal/Semi-formal emails by way of examples-</p><p>i) Write an email to place an order for the purchase of stationery items for your organization. (formal email)</p><p>ii) Write an email to Education Minister inviting him as Chief Guest on school Annual Sports Day. (formal email)</p><p>iii) Draft an email to your friend inviting him to the birthday party of your brother. (informal email)</p><p>iv) Draft an email to your friend accepting his invitation to attend his birthday party. (informal email)</p><p>v) Draft an email to your friend refusing his invitation to attend his birthday party. (informal email)</p><p>vi) Draft an email to your landlord for the repair of the roof of your room. (semi-formal email)</p>",
+    "id_name": "email-writing-j",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      {
+        "Prabh Kirpa Classes": "https://www.udemy.com/user/prabh-kirpa-classes/"
+      }
+    ],
+    "coupon_max_uses": 100,
+    "coupon_uses_remaining": 34,
+    "coupon_code": "955380C596BC20B4EC3F",
+    "caption_languages": ["English [Auto]"],
+    "content_info_short": "1 hour",
+    "has_certificate": true,
+    "has_closed_caption": true,
+    "headline": "Understanding the Essentials of Email Writing for Clear and  Impactful Messaging",
+    "num_lectures": 5,
+    "primary_category": "Teaching & Academics",
+    "primary_subcategory": "Other Teaching & Academics",
+    "rating": 3.8,
+    "requirements_data": ["Nil"],
+    "target_audiences": [
+      "Students who are interested to learn about Email Writing"
+    ],
+    "what_you_will_learn_data": [
+      "1. What is the meaning of Email?",
+      "2. What are the various types of Email?",
+      "3. What are the  advantages of Email?",
+      "4. What is the format of Email?",
+      "5. DO’s and Don’ts in Email Writing"
+    ]
+  },
+  {
+    "id": "çm9ç",
+    "title": "Women Leaders Executive Programme",
+    "image": "https://img-c.udemycdn.com/course/480x270/5205546_ef41_2.jpg",
+    "description": "<p>What you'll learn</p><p>● The history of the emergence of feminism and women's leadership</p><p>● Women's leadership in philosophy, culture and politics</p><p>● Gender problems in society</p><p>● Barriers to the development of women's leadership</p><p>● Myths about women's leadership</p><p>● Opportunities for women's leadership</p><p>● Women who changed the world</p><p>● Qualities inherent in women leaders</p><p>● Women's time management</p><p>● Work-life balance</p><p><br></p><p>Requirements</p><p>No special requirements. Course for any who want to know more about women's leadership, its phenomenon, history of feminism, how to manage time and being a mom, wife and worker, also for the ones who want to get inspired.</p><p><br></p><p>Description</p><p>Welcome to course: Women’s leadership</p><p><br></p><p>You will know about: what is women’s leadership and how it appeared and developed, how to lead as a women, what kind of gender problems we have, what are the barriers for developing women’s leadership, myths about woman as a leader, women who changed the world and their history, male and female time-management, how to manage time as a woman, flexible time-management, what is work&life balance and how to keep it, leadership experience from working moms</p><p><br></p><p>Course provided by MTF Institute of Management, Technology and Finance</p><p>MTF is the global educational and research institute with HQ at Lisbon, Portugal, focused on business & professional hybrid (on-campus and online) education at areas: Business & Administration, Science & Technology, Banking & Finance. </p><p>MTF R&D center focused on research activities at areas: Artificial Intelligence, Machine Learning, Data Science, Big Data, WEB3, Blockchain, Cryptocurrency & Digital Assets, Metaverses, Digital Transformation, Fintech, Electronic Commerce, Internet of Things. </p><p>MTF is the official partner of: IBM, Intel, Microsoft, member of the Portuguese Chamber of Commerce and Industry, and resident of the incubator \"The Fintech House of Portugal\".</p><p>MTF is present in 208 countries and has been chosen by more than 380,000 students.</p><p><br></p><p>Course Instructor: Zhansaya Berdikulova,</p><p>Regional Coordinator of the leadership development project in schools of Kazakhstan, certified coach, leadership development coach</p><p>Bachelor of Economics and Business of University of International Business</p><p>Master of Economic Sciences of M.Auezov South Kazakhstan University</p><p>Experience:</p><p>Regional Coordinator of the leadership development project in schools of Kazakhstan, certified coach, coach for the development of leadership qualities of the public organization Association of Young Leaders</p><p><br></p><p>After finishing a course you will get: knowledge about leadership for women, how to live as a woman-leader, how to lead as a woman, how to balance the life as a wife-mom and a worker, tips for working moms and wifes, research in the field of women's leadership and also how to fight with gender problems and myths about women’s leadership.</p><p>Course Plan:</p><p>1. About the course, topic and author</p><p>2. History of women’s leadership</p><p>3. Phenomenon of women's leadership</p><p>4. Myths</p><p>5. Women leaders and their experience</p><p>6. Women's leadership and company success</p><p>7. Fem-management</p><p>8. Work-life balance</p><p><br></p><p>Course Full Description and Welcome Letter:</p><p>Hello!</p><p><br></p><p>Welcome to the online course on women's leadership. This course is intended for everyone, especially for women who want to learn about the origins of feminism and women's leadership, about gender issues, myths about women's leadership, as well as about the barriers that almost every woman faces on her career path.</p><p><br></p><p>The course consists of theoretical, historical and statistical data, and also offers tools for leadership in a woman's life based on clear numbers and methods.</p><p><br></p><p>This course is useful not only for women, but also for company owners, managers and directors, because it provides recommendations for maintaining a work-life balance of employees.</p><p><br></p><p>The aim of the course is to inspire women and show them a lot of what they are capable of and what they can do if they believe in themselves and their abilities.</p><p><br></p><p>A little about me</p><p><br></p><p>My name is Zhansaya, but for you I'm just Saya</p><p><br></p><p>For the last 10 years, I have been teaching adults and children leadership, communication, conflict management, decision-making, planning - all the flexible skills necessary for life and work.</p><p><br></p><p>For 3 years I have been the regional coordinator of the republican leadership development project and work closely with women who study leadership.</p><p><br></p><p>In addition, I am a wife and mother of a newborn. Higher economic education in the field of marketing and management helps me to lead not only as a life skill, but also as a professional. All these skills and knowledge help me to manage my life, make it more effective and live not only for the family, but for myself too.</p><p><br></p><p>I hope that the course will be useful and effective for you, and inspire you to become the very best version of yourself.</p><p><br></p><p>Linked Topics:</p><ul><li><p>Marketing Fundamentals</p></li><li><p>Management Fundamentals</p></li><li><p>Business Fundamentals</p></li></ul>",
+    "id_name": "womens-leadership",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      {
+        "MTF Institute of Management, Technology and Finance": "https://www.udemy.com/user/mtfinstitute/"
+      }
+    ],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 880,
+    "coupon_code": "E1CFAE80EA80EF9B640F",
+    "caption_languages": ["English [Auto]"],
+    "content_info_short": "1.5 hours",
+    "has_certificate": true,
+    "has_closed_caption": true,
+    "headline": "Women's Leadership, Skills, Management Styles, Fem-Management, Situational leadership, Work-life balance",
+    "num_lectures": 13,
+    "primary_category": "Teaching & Academics",
+    "primary_subcategory": "Humanities",
+    "rating": 4.2,
+    "requirements_data": [
+      "No special requirements. Course for any who want to know more about women's leadership, its phenomenon, history of feminism, how to manage time and being a mom, wife and worker, also for the ones who want to get inspired."
+    ],
+    "target_audiences": [
+      "Course for any who want to know more about women's leadership, its phenomenon, history of feminism, how to manage time and being a mom, wife and worker, also for the ones who want to get inspired."
+    ],
+    "what_you_will_learn_data": [
+      "The history of the emergence of feminism and women's leadership",
+      "Women's leadership in philosophy, culture and politics",
+      "Gender problems in society",
+      "Barriers to the development of women's leadership",
+      "Myths about women's leadership",
+      "Opportunities for women's leadership",
+      "Women who changed the world",
+      "Qualities inherent in women leaders",
+      "Women's time management",
+      "Work-life balance"
+    ]
+  },
+  {
+    "id": "ãn¼ç­",
+    "title": "Real Estate Investment & Finance",
+    "image": "https://img-c.udemycdn.com/course/480x270/4268562_70e3.jpg",
+    "description": "<p>This course will provide many useful tools for real estate investors and home buyers.</p><p>Real estate investing in a complex topic for many reasons. Real estate is a large investment, often requiring a significant part of an and individual’s asset portfolio. Real estate investing often requires financing which increases the complexity. The reason for purchasing real estate varies greatly form person to person, some looking for a long-term home, others looking primarily for an investment, most wanting some mixture of both. Regulations also play a significant role in real estate investing decisions.</p><p>We will include many example problems, both in the format of presentations and Excel worksheet problems. The Excel worksheet presentations will include a downloadable Excel workbook with at least two tabs, one with the answer, the second with a preformatted worksheet that can be completed in a step-by-step process along with the instructional videos.</p><p>This course will start out with the basics. We will discuss basic real estate terms because every specialized field will have terminology we need to understand to communicate well and make decisions.</p><p>Real estate transactions have many components and players involved. Once we understand the basic terminology, we will discuss how those components and players fit together for a real estate transaction to take place.</p><p>Because real estate is a long-term investment, we need to understand time value of money concepts. This course will provide a section explaining what time value of money concepts are and will demonstrate the tools needed to use time value of money concepts. We will learn how to use Excel formulas to calculate present value, future value, payments, and interest rates.</p><p>Learners will understand different financing options. We will apply our time value of money concepts as we create amortization schedules and worksheet to help us analyze different financing options.</p>",
+    "id_name": "real-estate-investment-finance",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      {
+        "Robert (Bob) Steele": "https://www.udemy.com/user/c91d6786-95f3-48d8-ab94-cc92431d2aa4/"
+      }
+    ],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 897,
+    "coupon_code": "78CFD53CD8BD13625394",
+    "caption_languages": ["English [Auto]"],
+    "content_info_short": "44 hours",
+    "has_certificate": true,
+    "has_closed_caption": true,
+    "headline": "Learn to use real estate investing tools to make better investing decisions from a Certified Public Account (CPA)",
+    "num_lectures": 155,
+    "primary_category": "Business",
+    "primary_subcategory": "Real Estate",
+    "rating": 5,
+    "requirements_data": [],
+    "target_audiences": [
+      "People interested in real estate investing from beginners to advanced"
+    ],
+    "what_you_will_learn_data": [
+      "List and explain real estate related terms",
+      "Describe the parties and components involved in a real estate transaction",
+      "Explain what time value of money concept are and why they matter for real estate transactions",
+      "Calculate present value using Excel formulas",
+      "Calculate future value using Excel formulas",
+      "Calculate payment amount PMT using Excel formulas",
+      "Calculate interest rates using Excel formulas",
+      "Describe common financing options and loan structures",
+      "Build amortizations schedules using Excel"
+    ]
+  },
+  {
+    "id": "ë_zãn",
+    "title": "400-101: Implementing Cisco IP Routing 2024",
+    "image": "https://img-c.udemycdn.com/course/480x270/6196425_9ce2.jpg",
+    "description": "<p>The 400-101 ROUTE course is designed for networking professionals preparing for the CCNP Routing and Switching certification. This course provides an in-depth exploration of IP routing principles, enabling participants to implement and troubleshoot complex routing technologies within enterprise networks.</p><p>In today’s dynamic networking environment, a comprehensive understanding of routing protocols and practices is essential for ensuring efficient and secure data flow. This course equips you with the knowledge and skills required to design, configure, and manage routing solutions that meet the needs of modern organizations.</p><p>Key Learning Objectives:</p><ol><li><p>Routing Protocols:</p><ul><li><p>Gain a thorough understanding of both static and dynamic routing protocols, including RIPv2, EIGRP, OSPF, and BGP.</p></li><li><p>Learn to configure and optimize these protocols to improve network performance and reliability.</p></li></ul></li><li><p>IPv4 and IPv6 Addressing:</p><ul><li><p>Master IP addressing schemes and subnetting for both IPv4 and IPv6.</p></li><li><p>Implement effective addressing strategies to support efficient network design.</p></li></ul></li><li><p>Route Manipulation Techniques:</p><ul><li><p>Explore methods for manipulating routing tables, including route filtering, redistribution, and summarization.</p></li><li><p>Understand administrative distances and their impact on route selection.</p></li></ul></li><li><p>Implementing and Troubleshooting Routing Technologies:</p><ul><li><p>Develop skills to configure and troubleshoot routing protocols and related technologies.</p></li><li><p>Utilize diagnostic tools such as ping, traceroute, and show commands to identify and resolve routing issues.</p></li></ul></li><li><p>Redistribution and Route Summarization:</p><ul><li><p>Learn techniques for redistributing routes between different routing protocols.</p></li><li><p>Configure route summarization to optimize routing tables and enhance efficiency.</p></li></ul></li><li><p>Policy-Based Routing (PBR):</p><ul><li><p>Implement policy-based routing to influence routing decisions based on specific criteria other than destination IP addresses.</p></li></ul></li><li><p>High Availability Solutions:</p><ul><li><p>Understand concepts related to routing redundancy and high availability, including HSRP, VRRP, and GLBP, to ensure network reliability.</p></li></ul></li></ol><p>Hands-On Labs:</p><p>Throughout the course, you will engage in hands-on labs and practical exercises that provide real-world experience in configuring and managing routing technologies. These labs are designed to reinforce your understanding of complex routing concepts and prepare you for exam scenarios.</p><p>Preparing for the 400-101 Exam:</p><p>Upon completion of this course, you will be well-prepared to take the 400-101 ROUTE exam. Successfully passing this exam is a key requirement for achieving the CCNP Routing and Switching certification, validating your expertise in implementing and managing routing technologies.</p><p>This course is ideal for network engineers, administrators, and professionals looking to enhance their skills and advance their careers in networking. Join us and take the next step in your professional journey!</p>",
+    "id_name": "400-101-implementing-cisco-ip-routing",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      { "MD ZAHEDUL ISLAM": "https://www.udemy.com/user/md-zahedul-islam-10/" }
+    ],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 865,
+    "coupon_code": "07CDFACE24B8F248FD9B",
+    "caption_languages": [],
+    "content_info_short": "50 questions",
+    "has_certificate": false,
+    "has_closed_caption": false,
+    "headline": "\"Mastering Routing Technologies for Enterprise Networks\"",
+    "num_lectures": 0,
+    "primary_category": "IT & Software",
+    "primary_subcategory": "IT Certifications",
+    "rating": 5,
+    "requirements_data": [
+      "Basic Networking Knowledge",
+      "CCNA Certificatio",
+      "Experience with Cisco Device"
+    ],
+    "target_audiences": [
+      "Network Security Professionals, IT Professionals, Security Administrators"
+    ],
+    "what_you_will_learn_data": [
+      "Routing Protocols",
+      "IPv4 and IPv6 Addressing",
+      "Route Manipulation",
+      "Implementing and Troubleshooting Routing Technologies"
+    ]
+  },
+  {
+    "id": "ç=Û]",
+    "title": "Frequency Distribution  Mastery: Part- 1",
+    "image": "https://img-c.udemycdn.com/course/480x270/5449210_ece4_3.jpg",
+    "description": "<p>How to form a frequency distribution table where the data in respect of blood groups of many students is given and how we can say which is the most common and which is the rarest blood group among the students.</p><p><br></p><p>How to construct a grouped frequency distribution table when the data in respect of few engineers is given who reside at different distances from the place of work. </p><p><br></p><p>If the data in respect of humidity of a certain city for a few days is given, how to construct a grouped frequency distribution table when class size is also given. And how to find the range of the data?</p><p><br></p><p>How to form a grouped frequency distribution table when the data in respect of height of many students is given along with class intervals and what conclusion we draw from the table about the heights of students.</p><p><br></p><p>When the large amount of data is to be presented, we can condense the data in to groups and these groupings are called “classes” or “class-intervals” and their size is called the class-size or class width. In each of these groupings/classes, the least number is called the lower class limit and the greater number is called the upperclasslimit.</p>",
+    "id_name": "exploring-frequency-distribution-tables-part-i",
+    "instructional_level_simple": "Intermediate",
+    "instructors": [
+      {
+        "Prabh Kirpa Classes": "https://www.udemy.com/user/prabh-kirpa-classes/"
+      }
+    ],
+    "coupon_max_uses": 100,
+    "coupon_uses_remaining": 76,
+    "coupon_code": "136AA66A700A8EE8AD64",
+    "caption_languages": ["English [Auto]"],
+    "content_info_short": "1 hour",
+    "has_certificate": true,
+    "has_closed_caption": true,
+    "headline": "Advanced Techniques for Data  Analysis and Interpretation",
+    "num_lectures": 5,
+    "primary_category": "Teaching & Academics",
+    "primary_subcategory": "Math",
+    "rating": 4.1,
+    "requirements_data": ["Basic knowledge of Algebra and Geometric concepts"],
+    "target_audiences": [
+      "Students and any individual who enjoys learning about various mathematical concepts"
+    ],
+    "what_you_will_learn_data": [
+      "How to form a frequency distribution table where the data in respect of blood groups of many students is given and how we can say which is the most common an",
+      "How to construct a grouped frequency distribution table when the data in respect of few engineers is given who reside at different distances from the place o",
+      "If the data in respect of humidity of a certain city for a few days is given, how to construct a grouped frequency distribution table when class size is also",
+      "How to form a grouped frequency distribution table when the data in respect of height of many students is given along with class intervals."
+    ]
+  },
+  {
+    "id": "ë_zã]",
+    "title": "350-701: Implementing and Operating Cisco Security Core 2024",
+    "image": "https://img-c.udemycdn.com/course/480x270/6196413_1463.jpg",
+    "description": "<p>The 350-701 SCOR course is a comprehensive program designed for IT professionals seeking to enhance their knowledge and skills in Cisco security technologies. This course serves as the foundational element of the CCNP Security certification and is a prerequisite for the CCIE Security certification. It covers a wide range of topics that are critical to securing modern enterprise infrastructures, including network security, cloud security, endpoint protection, content security, secure access, and security automation. The SCOR exam evaluates a candidate's ability to implement and manage Cisco's robust security solutions across different platforms, making it a key certification for anyone aiming to work in a cybersecurity-focused role.</p><p>In today's evolving threat landscape, organizations require professionals with advanced skills to safeguard networks, data, and systems from increasingly sophisticated cyberattacks. This course is designed to equip learners with the necessary tools to combat these challenges effectively. Whether you're an experienced security professional, a network engineer aiming to specialize in security, or someone new to cybersecurity, this course is structured to provide you with the practical knowledge and hands-on experience needed to secure critical infrastructure.</p><p>Core Areas Covered in the Course</p><p>The 350-701 SCOR course is structured around six key areas of focus. These include network security, cloud security, content security, endpoint protection, secure network access, and security automation. Each area is essential for understanding the full scope of Cisco's security capabilities and their application in enterprise environments.</p><p>1. Network Security</p><p>In this section, you will delve into the foundational aspects of securing a network. You will learn how to protect network infrastructure by implementing firewalls, VPNs (Virtual Private Networks), secure routing, and secure switching mechanisms. Cisco’s security products, including Cisco ASA (Adaptive Security Appliance) and Firepower Next-Generation Firewall (NGFW), are explored in detail, with a focus on their real-world application.</p><p>You'll explore key concepts such as stateful firewalling, intrusion prevention systems (IPS), and network address translation (NAT). You'll also learn how to implement secure protocols for routing and switching, such as OSPF, BGP, EIGRP, and their security extensions. The course also covers IPv6 security and how to protect next-generation network environments. By the end of this section, you will be able to configure, deploy, and manage robust network security policies that provide protection against common network threats such as DDoS attacks, unauthorized access, and malware infiltration.</p><p>2. Cloud Security</p><p>As more enterprises migrate to the cloud, the need for cloud security is paramount. In this part of the course, you'll learn how to secure cloud environments using Cisco’s cloud security solutions, such as Cisco Cloudlock and Cisco Umbrella. Cloud security practices and best strategies for securing cloud-based applications and data are emphasized.</p><p>Key topics include securing access to cloud resources, configuring secure APIs, and protecting data in transit and at rest. You'll also explore identity and access management (IAM) within cloud platforms and understand how to integrate cloud security tools with existing on-premises security architectures. With a focus on hybrid cloud environments, this section will help you develop the skills to manage and secure data across multiple platforms.</p><p>3. Content Security</p><p>Content security is essential to safeguarding your network from threats that can be introduced via the web, email, and other online services. The course dives into Cisco’s content security solutions, including the Cisco Web Security Appliance (WSA) and Cisco Email Security Appliance (ESA). You’ll learn how to configure these appliances to filter malicious content and prevent the introduction of malware into your network.</p><p>You'll also gain a deeper understanding of Advanced Malware Protection (AMP), content filtering techniques, and how to set up policies for web traffic monitoring and control. Additionally, you’ll explore DNS-layer security with Cisco Umbrella, which provides an additional layer of protection by preventing access to malicious websites. This section will provide you with the tools to secure the digital channels through which your organization communicates and interacts with the internet, protecting users from phishing attacks, email-based threats, and compromised websites.</p><p>4. Endpoint Protection and Detection</p><p>Endpoints, such as laptops, mobile devices, and IoT devices, are increasingly targeted by cyber attackers. Securing these devices is critical to an organization’s overall security posture. In this section, you’ll learn about endpoint protection techniques, including how to deploy and manage Cisco AMP for Endpoints. This powerful tool provides continuous monitoring and analysis of endpoint activities, allowing you to detect and respond to threats in real-time.</p><p>You'll also explore host-based intrusion prevention systems (HIPS) and how to implement comprehensive endpoint security policies. The course covers how to prevent, detect, and mitigate endpoint threats such as ransomware, fileless malware, and unauthorized access. By the end of this section, you’ll be proficient in implementing endpoint protection strategies that minimize risk across a variety of devices within an organization.</p><p>5. Secure Network Access, Visibility, and Enforcement</p><p>Network access control is a key component of a secure network. This section focuses on how to manage access to your network using Cisco Identity Services Engine (ISE) and 802.1X network access control. You'll learn how to set up policies that enforce secure access to network resources, ensuring that only authorized users and devices are allowed to connect.</p><p>The course will cover the concepts of TrustSec, micro-segmentation, and network segmentation to help you secure sensitive data and network segments. Visibility and monitoring are also crucial, and you will learn how to use Cisco tools to gain insights into network traffic, user behavior, and potential security threats. By applying secure access methods, you can significantly reduce the attack surface and ensure that your network remains secure even as it grows and evolves.</p><p>6. Security Automation and Programmability</p><p>In this increasingly automated world, security professionals need to know how to automate security tasks and integrate them into larger workflows. This section of the course teaches you how to leverage Cisco’s APIs and automation tools such as Cisco DNA Center and Cisco SD-Access to simplify security operations.</p><p>You'll explore the fundamentals of network programmability using tools like Python, REST APIs, and Ansible. You’ll also learn how to automate routine tasks, such as threat detection and response, using Cisco’s security automation platforms. The course will guide you through building and deploying scripts to monitor and secure network environments efficiently. By mastering these automation techniques, you’ll be able to save time, reduce human error, and respond to security incidents more rapidly.</p>",
+    "id_name": "350-701-implementing-and-operating-cisco-security-core",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      { "MD ZAHEDUL ISLAM": "https://www.udemy.com/user/md-zahedul-islam-10/" }
+    ],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 884,
+    "coupon_code": "4C0F9A50597DEC84DB99",
+    "caption_languages": [],
+    "content_info_short": "50 questions",
+    "has_certificate": false,
+    "has_closed_caption": false,
+    "headline": "\"Mastering Core Security Technologies for Network, Cloud, Endpoint, and Automation\"",
+    "num_lectures": 0,
+    "primary_category": "IT & Software",
+    "primary_subcategory": "IT Certifications",
+    "rating": 0,
+    "requirements_data": [
+      "Familiarity with Networking Concepts",
+      "Basic Security Knowledge",
+      "Experience with Cisco Products"
+    ],
+    "target_audiences": [
+      "Network Security Professionals, IT Professionals, Security Administrators"
+    ],
+    "what_you_will_learn_data": [
+      "Network Security",
+      "Cloud Security",
+      "Content Security",
+      "Endpoint Protection and Detection"
+    ]
+  },
+  {
+    "id": "ë]<ó­",
+    "title": "1Z0-147: Oracle PL/SQL Practice Test 2024",
+    "image": "https://img-c.udemycdn.com/course/480x270/6108861_eb4c_2.jpg",
+    "description": "<p>Welcome to the Oracle PL/SQL Developer Certified Associate course! This comprehensive program is designed to equip you with the essential skills and knowledge required for effective PL/SQL development and management. Whether you’re new to PL/SQL or looking to enhance your existing skills, this course will guide you through the fundamentals and advanced aspects of Oracle’s powerful procedural language.</p><p>Course Overview:</p><p>Dive into the world of PL/SQL with a curriculum that covers everything from basic syntax to advanced programming techniques. This course provides a blend of theoretical concepts and practical exercises, enabling you to write, optimize, and manage PL/SQL code for Oracle databases effectively.</p><p>Key Learning Objectives:</p><ul><li><p>Understand PL/SQL Basics: Gain a solid foundation in PL/SQL, including its syntax, structure, and core features.</p></li><li><p>Develop PL/SQL Code: Learn to write and debug PL/SQL blocks, procedures, functions, and packages.</p></li><li><p>Optimize Performance: Discover techniques for enhancing the performance of your PL/SQL code and ensuring efficient database operations.</p></li><li><p>Handle Exceptions: Master exception handling to manage errors and ensure robust and reliable PL/SQL applications.</p></li><li><p>Work with Cursors and Collections: Understand how to use cursors and collections to manage complex data and perform advanced operations.</p></li></ul><p>Course Outline:</p><ol><li><p>Introduction to PL/SQL:</p><ul><li><p>Overview of PL/SQL and its advantages</p></li><li><p>Basic syntax and structure</p></li></ul></li><li><p>PL/SQL Blocks and Procedures:</p><ul><li><p>Writing anonymous blocks and stored procedures</p></li><li><p>Creating and managing functions</p></li></ul></li><li><p>Control Structures and Exception Handling:</p><ul><li><p>Using conditional statements and loops</p></li><li><p>Handling exceptions and errors effectively</p></li></ul></li><li><p>Cursors and Collections:</p><ul><li><p>Working with implicit and explicit cursors</p></li><li><p>Utilizing PL/SQL collections (arrays, nested tables, VARRAYs)</p></li></ul></li><li><p>Performance Optimization:</p><ul><li><p>Techniques for optimizing PL/SQL code</p></li><li><p>Best practices for performance tuning and efficient coding</p></li></ul></li><li><p>Dynamic SQL and Advanced Features:</p><ul><li><p>Implementing dynamic SQL for flexible code execution</p></li><li><p>Leveraging advanced PL/SQL features such as packages and triggers</p></li></ul></li><li><p>Integration with SQL:</p><ul><li><p>Combining PL/SQL with SQL queries</p></li><li><p>Managing transactions and data integrity</p></li></ul></li></ol><p>Who Should Enroll:</p><ul><li><p>Database Developers: Those writing and maintaining PL/SQL code for Oracle databases.</p></li><li><p>SQL Developers: Individuals looking to enhance their SQL skills with PL/SQL programming.</p></li><li><p>Database Administrators: DBAs needing to understand PL/SQL for database management and optimization.</p></li><li><p>Data Analysts and Business Analysts: Professionals who work with data and require knowledge of PL/SQL for analysis and reporting.</p></li><li><p>Students and Certification Seekers: Individuals preparing for the Oracle PL/SQL Developer Certified Associate exam (1Z0-147).</p></li></ul><p>Course Features:</p><ul><li><p>Hands-on Labs: Engage in practical exercises to apply and reinforce your PL/SQL skills.</p></li><li><p>Expert Instruction: Learn from experienced instructors with deep knowledge of PL/SQL and Oracle databases.</p></li><li><p>Certification Preparation: Prepare thoroughly for the 1Z0-147 certification exam with targeted study materials and practice questions.</p></li><li><p>Flexible Learning: Access course content online and study at your own pace, accommodating your schedule.</p></li></ul><p>Embark on this learning journey to master PL/SQL and enhance your capabilities in Oracle database development. Gain the skills needed to excel in your role and advance your career with the Oracle PL/SQL Developer Certified Associate certification!</p>",
+    "id_name": "1z0-147-oracle-plsql-practice-test-2024",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      { "MD ZAHEDUL ISLAM": "https://www.udemy.com/user/md-zahedul-islam-10/" }
+    ],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 928,
+    "coupon_code": "7B1E8B43F9C10320AFD4",
+    "caption_languages": [],
+    "content_info_short": "80 questions",
+    "has_certificate": false,
+    "has_closed_caption": false,
+    "headline": "\"Comprehensive PL/SQL Training for Effective Database Solutions\"",
+    "num_lectures": 0,
+    "primary_category": "IT & Software",
+    "primary_subcategory": "IT Certifications",
+    "rating": 4,
+    "requirements_data": [
+      "Basic Knowledge of SQL:  Understanding of SQL (Structured Query Language) fundamentals, as PL/SQL builds on SQL. Familiarity with SQL commands, queries, and database concepts is essential.",
+      "Experience with Oracle Databases:  Basic familiarity with Oracle databases and their environment will be beneficial. Understanding Oracle’s data types, schema objects, and SQL*Plus or other database interfaces is helpful.",
+      "Programming Basics:  A foundational understanding of programming concepts such as variables, control structures (loops, conditionals), and error handling will aid in grasping PL/SQL’s procedural aspects."
+    ],
+    "target_audiences": [
+      "Database Developers: PL/SQL Developers: Professionals writing and maintaining PL/SQL code for Oracle databases, including stored procedures, functions, and packages.",
+      "Database Administrators (DBAs): DBAs: Administrators who need to understand PL/SQL for managing and optimizing Oracle databases, including tasks related to performance tuning and automation.",
+      "IT Professionals: Application Developers: Developers creating applications that interact with Oracle databases and require knowledge of PL/SQL for backend development.",
+      "Students and Certification Seekers: Students: Those studying database development or programming who want to build a strong foundation in PL/SQL."
+    ],
+    "what_you_will_learn_data": [
+      "PL/SQL Basics  Understanding PL/SQL syntax and semantics",
+      "Control Structures  Implementing conditional control (IF statements)",
+      "Cursors  Using implicit and explicit cursors",
+      "Procedures and Functions  Creating, invoking, and managing procedures and functions",
+      "Packages  Creating and managing packages",
+      "Triggers  Creating and managing database triggers",
+      "Composite Data Types  Using collections (nested tables, varrays, and associative arrays)",
+      "Dynamic SQL  Understanding and using dynamic SQL",
+      "PL/SQL Dependencies  Managing and understanding dependencies"
+    ]
+  },
+  {
+    "id": "ã~¹ëÍ",
+    "title": "The Virtual World: Advantages  and Drawbacks of the Internet",
+    "image": "https://img-c.udemycdn.com/course/480x270/4365682_40d3.jpg",
+    "description": "<p>In this course, we will discuss :</p><p>1. What is the meaning of the internet?</p><p>2. What are the various uses of the internet? What is the importance of the internet in our daily life?</p><p>3. What are the advantages and disadvantages of the internet?</p><p>4. Who owns the internet?</p><p>5. What is the difference between the Internet and Worldwide Web (www)?</p><p>1. What is the internet?</p><p>2. What are the various uses of the internet?</p><p>1. Who is the owner of the internet?</p><p>2. What are the various advantages of the internet?</p><p>Disadvantages of internet</p><p>Difference between internet and world wide web</p><p>What is the meaning of the internet? What is the short form of the internet?</p><p>2. What is the percentage of the world population which is using the internet?</p><p>3. Name the different ways to connect to the internet.</p><p>4. What are the various uses of the internet? What is the importance of the internet in our daily life?</p><p>5.  How the internet has helped people in times of catastrophic disasters and Covid-19?</p><p>6.  Who owns the internet?</p><p>7. What are the advantages of the internet?</p><p>8.  What are the disadvantages of the internet? How the internet has resulted in health problems. What is the adverse effect of the internet especially on children?</p><p>9. What is the difference between the Internet and the Worldwide web (www)?</p><p><br></p>",
+    "id_name": "internet-uses-advantages-disadvantagesdifference-with-www",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      {
+        "Prabh Kirpa Classes": "https://www.udemy.com/user/prabh-kirpa-classes/"
+      }
+    ],
+    "coupon_max_uses": 100,
+    "coupon_uses_remaining": 66,
+    "coupon_code": "0CAC2A42A6459B726F12",
+    "caption_languages": ["English [Auto]"],
+    "content_info_short": "30 mins",
+    "has_certificate": true,
+    "has_closed_caption": true,
+    "headline": "Navigating the Digital  Landscape for Success and Well-Being",
+    "num_lectures": 5,
+    "primary_category": "Teaching & Academics",
+    "primary_subcategory": "Other Teaching & Academics",
+    "rating": 4.4,
+    "requirements_data": ["Nil"],
+    "target_audiences": [
+      "Students who are interested in the topic of Internet"
+    ],
+    "what_you_will_learn_data": [
+      "What is internet?",
+      "What are the various uses of internet?",
+      "What are the advantages of internet and disadvantages of internet?",
+      "Who owns the internet?",
+      "What is the difference between internet and world wide web?"
+    ]
+  },
+  {
+    "id": "ënµó",
+    "title": "Acing the Java Interview",
+    "image": "https://img-c.udemycdn.com/course/480x270/6261845_8dc2_2.jpg",
+    "description": "<p>Do you have a Java interview and want to brush up your Java knowledge and skills ? This course is the right choice for you to prepare for Java coding interviews with confidence! </p><p><br></p><p>In this course we will dive deep into essential and frequent Java interview questions covered in technical interviews, from basic Java fundamentals to advanced concepts in data structures, OOP principles, and multithreading. </p><p><br></p><p> What will students learn in your course?</p><ul><li><p>Comprehensive understanding of Java basics, including JVM, JDK, and JRE.</p></li><li><p>Mastery of Object-Oriented Programming (OOP) in Java, covering method overloading, inheritance, and more.</p></li><li><p>In-depth knowledge of Java Generics and effective usage in applications.</p></li><li><p>Thorough understanding of Java Strings and their underlying mechanics, such as immutability and the String pool.</p></li><li><p>Advanced proficiency in Java Collections, including HashMap, Iterator, and differences between collections.</p></li><li><p>Detailed concepts in Java Multithreading and Concurrency, including synchronization, deadlocks, and the volatile keyword.</p></li><li><p>Effective handling of Java Exceptions, with a breakdown of checked and unchecked exceptions.</p></li><li><p>Essential Java Data Structures knowledge for problem-solving in interview scenarios.</p></li><li><p>Practical insights into coding interview questions, focusing on Java-based solutions.</p></li><li><p>How to ace Object Oriented Design interviews</p></li></ul><p>.What are the requirements or prerequisites for taking your course?</p><ul><li><p>Basic knowledge of programming fundamentals.</p></li><li><p>Familiarity with core Java syntax is helpful but not mandatory, as foundational topics will be covered.</p></li><li><p>No prior interview experience is required; this course is designed for students preparing for Java coding interviews of all levels.</p></li></ul><p> Who is this course for?</p><ul><li><p>Java developers preparing for technical interviews.</p></li><li><p>Junior and mid-level developers looking to strengthen their core Java knowledge and improve interview performance.</p></li><li><p>Computer science students or career changers aiming to build a solid foundation in Java.</p></li><li><p>Anyone wanting a comprehensive Java refresher to tackle technical interviews with confidence.</p></li></ul><p><br></p><p>The course covers the following topics:</p><ol><li><p>Java Basics</p></li><li><p>What is Java?</p></li><li><p>Java vs C++</p></li><li><p>What is JVM?</p></li><li><p>What is the Difference Between JDK, JRE, and JVM?</p></li><li><p>How Many Types of Memory Areas are Allocated by JVM?</p></li><li><p>What are the Advantages of Packages in Java?</p></li><li><p>Does Java Pass Variables by Value or Reference?</p></li><li><p>What is Method Overloading and Method Overriding?</p></li><li><p>What is the Difference Between == and .equals() in Java?</p></li><li><p>How Does Java Handle Multiple Inheritance?</p></li><li><p>What is the Diamond Problem?</p></li><li><p>What is Constructor Chaining in Java?</p></li><li><p>Default Constructors in Java</p></li><li><p>What is an Abstract Class?</p></li><li><p>What is a Final Class?</p></li><li><p>What is an Interface in Java?</p></li><li><p>What are Generics in Java?</p></li><li><p>What are Generic Methods?</p></li><li><p>What are Wildcards?</p></li><li><p>Why are Strings Immutable in Java?</p></li><li><p>What is the String Pool?</p></li><li><p>What is the Difference Between StringBuffer and StringBuilder?</p></li><li><p>Explain substring() Method. Does it Create a New String?</p></li><li><p>What is the Collections Framework in Java?</p></li><li><p>What is the Difference Between Iterator and Iterable Interfaces?</p></li><li><p>What is the Difference Between Hashtable and HashMap?</p></li><li><p>What is the Difference Between a Process and a Thread?</p></li><li><p>What is Synchronized in Java?</p></li><li><p>What is a Deadlock?</p></li><li><p>What is Starvation?</p></li><li><p>What is a Thread Safe Class?</p></li><li><p>Mutex vs Semaphore</p></li><li><p>Explain the \"volatile\" Keyword in Java</p></li><li><p>What is the wait() method in Java?</p></li><li><p>What is the notify() method in Java?</p></li><li><p>What is an Exception?</p></li><li><p>What Does Throwing an Exception Mean?</p></li><li><p>What are Checked Exceptions?</p></li><li><p>What are Unchecked Exceptions?</p></li><li><p>What are Runtime Exceptions?</p></li><li><p>How to Handle Multiple Exceptions in the Same Catch Block?</p></li><li><p>Java Object Oriented Design</p></li><li><p>Stack - Valid Parentheses</p></li><li><p>Set - School Database</p></li><li><p>Priority Queue - Kth Largest Element</p></li><li><p>Hash Map - Web Page Cache</p></li></ol><p><br></p><p><br></p><p>So what are you waiting for ? do you want to ace your Java coding interview ? enroll in the course now and prepare for acing your Java interview in the quickest way possible with 30 days money back guarantee. </p><p><br></p><p>See you in the course! :)</p>",
+    "id_name": "java-interview-ultimate-guide-top-java-interview-questions",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      { "Ahmed Elsakka": "https://www.udemy.com/user/ahmed-el-sakka-2/" }
+    ],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 196,
+    "coupon_code": "81CB1D7283FCE0DA0846",
+    "caption_languages": [],
+    "content_info_short": "2.5 hours",
+    "has_certificate": true,
+    "has_closed_caption": false,
+    "headline": "Java Basics, JVM, Strings, OOP, Multithreading, Collections, Object Oriented Design and Data Structures",
+    "num_lectures": 61,
+    "primary_category": "Development",
+    "primary_subcategory": "Programming Languages",
+    "rating": 0,
+    "requirements_data": ["Basic knowledge of programming fundamentals."],
+    "target_audiences": [
+      "Java developers preparing for technical interviews.",
+      "Junior and mid-level developers looking to strengthen their core Java knowledge and improve interview performance.",
+      "Computer science students or career changers aiming to build a solid foundation in Java.",
+      "Anyone wanting a comprehensive Java refresher to tackle technical interviews with confidence."
+    ],
+    "what_you_will_learn_data": [
+      "Practical insights into Java interview questions",
+      "Comprehensive understanding of Java basics, including JVM, JDK, and JRE.",
+      "Mastery of Object-Oriented Programming (OOP) in Java, covering method overloading, inheritance, and more.",
+      "In-depth knowledge of Java Generics and effective usage in applications.",
+      "Thorough understanding of Java Strings and their underlying mechanics, such as immutability and the String pool.",
+      "Advanced proficiency in Java Collections, including HashMap, Iterator, and differences between collections.",
+      "Detailed concepts in Java Multithreading and Concurrency, including synchronization, deadlocks, and the volatile keyword.",
+      "Effective handling of Java Exceptions, with a breakdown of checked and unchecked exceptions.",
+      "Essential Java Data Structures knowledge for problem-solving in interview scenarios.",
+      "How to ace Object Oriented Design interviews"
+    ]
+  },
+  {
+    "id": "ç®4ó]",
+    "title": "Crea una Página Web con Elementor Pro y el Tema Hello 2024",
+    "image": "https://img-c.udemycdn.com/course/480x270/5640810_d3f4.jpg",
+    "description": "<p>¿DESEAS CREAR UNA PÁGINA WEB CON WORPDRESS DESDE CERO PARA TU NEGOCIO?</p><p><br></p><p>WordPress es un software gratuito o herramienta de gestión de contenidos, también llamado CMS (Content Management System), diseñada para crear y mantener fácilmente un Blog, un sitio Web o una Tienda Online.</p><p><br>WordPress es sin duda alguna, el mejor gestor de contenidos del mundo, y el más utilizado con diferencia, llegando actualmente a superar el 58% de cuota de mercado. Además es de código abierto y completamente gratuito.</p><p><br></p><p>Elementor es un plugin gratuito para WordPress que sirve para crear y maquetar páginas web con todo tipo de diseños a través de un editor visual de tipo drag and drop que permite arrastrar y añadir elementos de manera sencilla y rápida, simplifica de manera extraordinaria el diseño de páginas web con WordPress, sobre todo para personas que no son expertas en código y programación web y quieren crear sitios desde cero sin las limitaciones del constructor nativo de WordPress.</p><p><br></p><p>Además, Elementor posee una interfaz intuitiva y muy visual que permite trabajar a tiempo real sobre el frontend, es decir, sobre el diseño de la página en la parte visual.</p><p><br></p><p>Elementor Pro es la versión de pago del plugin Elementor. Esta versión pagada incorpora widgets, plantillas, el editor de temas además de un soporte premium para resolver dudas y solucionar problemas.</p><p><br></p><p>Los desarrolladores de Elementor han creado Hello Theme, un tema WordPress especialmente diseñado para ser la plantilla más indicada y óptima para trabajar con Elementor. Esta plantilla gratuita trae solo lo justo y necesario para funcionar. No tiene ningún tipo de ajustes de personalización ni estilo prácticamente, es un lienzo en blanco, lo cual hace que sea una muy buena opción para crear tu sitio web con WordPress y el constructor visual de Elementor.<br><br></p><p>Nuestro curso es 100% práctico, lo guiaremos a través de diversos pasos y juntos crearemos su sitio web con Elementor Pro y el Tema Hello, de modo que al finalizar nuestro curso, tendrá su sitio web diseñado con su personalización y a su gusto.<br><br></p><p>¿QUÉ APRENDERÁS EN NUESTRO CURSO?<br><br></p><ul><li><p>Cómo contratar un plan de hosting para crear tu sitio web con Elementor Pro y el Tema Hello Elementor.</p></li><li><p>Cómo crear sitios web profesionales con Elementor Pro y el Tema Hello Elementor desde cero.</p></li><li><p>Cómo instalar plantillas prediseñadas con Elementor Kits para comenzar a crear tu sitio web con WordPress y Elementor Pro.</p></li><li><p>Cómo personalizar el diseño de tu sitio web de forma profesional con el constructor visual de Elementor.</p></li><li><p>Cómo crear un formulario de contacto para tu sitio web con Elementor Pro.</p></li><li><p>Cómo publicar tu sitio web en Internet.</p><p><br></p><p><br></p></li></ul><p>¿POR QUÉ ACCEDER A NUESTRO CURSO?</p><p><br>Nuestro curso de \"Crea una Página Web con Elementor Pro y el Tema Hello\", es impartido por el experto y consultor de marketing digital: \"Renato Yacolca\", creador de uno de los canales de YouTube más populares del mundo en los temas de tutoriales y marketing digital: Programación Fácil, SEO y Marketing, con más de 180,000 estudiantes (Botón de Plata de YouTube), en el que le mostrará las diversas formas de crear un sitio web con Elementor Pro y el Tema Hello Elementor de forma rápida y sencilla. <br><br><br>¡ACCEDE AHORA AL CURSO!</p><p><br>Inscríbase ahora y empiece con su aprendizaje en nuestro curso. Hay herramientas interesantes, atractivas y nuevas que aprender con Elementor Pro y el Tema Hello Elementor.<br><br></p><p>Si tiene alguna pregunta sobre el contenido del curso o algo relacionado con este tema, siempre puede publicar una pregunta en el curso o enviarme un mensaje directo.<br><br></p><p>¡Adelante, haz clic en el botón de COMPRAR AHORA y te veré en la lección 1!</p><p>Saludos,</p><p>Renato Yacolca</p>",
+    "id_name": "crea-una-pagina-web-con-elementor-pro-y-el-tema-hello",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      {
+        "Renato Jesús Yacolca Neyra": "https://www.udemy.com/user/renato-jesus-yacolca-neyra-2/"
+      }
+    ],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 932,
+    "coupon_code": "EL-HEL38",
+    "caption_languages": ["Spanish [Auto]"],
+    "content_info_short": "1.5 hours",
+    "has_certificate": true,
+    "has_closed_caption": true,
+    "headline": "Aprende a cómo crear una página web desde cero con Elementor Pro y el Tema Hello Elementor, sin saber de programación.",
+    "num_lectures": 14,
+    "primary_category": "Development",
+    "primary_subcategory": "No-Code Development",
+    "rating": 4.4,
+    "requirements_data": [
+      "Necesitas tener una computadora o laptop.",
+      "Conexión a Internet.",
+      "No necesitas tener experiencia en diseño web, ni en programación."
+    ],
+    "target_audiences": [
+      "Emprendedores y personas que deseen conseguir tráfico web y ventas en un sitio web.",
+      "Emprendedores y personas que deseen configurar un sitio web diseñado profesionalmente desde cero.",
+      "Emprendedores y personas que busquen comenzar una carrera en el nicho de creación de sitios web con WordPress y Elementor Pro.",
+      "Emprendedores y personas que quieran aprender a usar WordPress y Elementor Pro de forma profesional."
+    ],
+    "what_you_will_learn_data": [
+      "Cómo contratar un plan de hosting para crear tu sitio web con Elementor Pro y el Tema Hello Elementor.",
+      "Cómo crear sitios web profesionales con Elementor Pro y el Tema Hello Elementor desde cero.",
+      "Cómo instalar plantillas prediseñadas con Elementor Kits para comenzar a crear tu sitio web con WordPress y Elementor Pro.",
+      "Cómo personalizar el diseño de tu sitio web de forma profesional con el constructor visual de Elementor.",
+      "Cómo crear un formulario de contacto para tu sitio web con Elementor Pro.",
+      "Cómo publicar tu sitio web en Internet."
+    ]
+  },
+  {
+    "id": "ë_zã}",
+    "title": "500-210: Implementing Cisco Business Resiliency 2024",
+    "image": "https://img-c.udemycdn.com/course/480x270/6196431_2553.jpg",
+    "description": "<p>The 500-210 IBR course is designed for IT professionals seeking to build expertise in implementing effective business resiliency strategies using Cisco technologies. In today's rapidly changing business environment, organizations must be prepared to handle disruptions and ensure continuity. This course provides a comprehensive overview of the principles, tools, and best practices essential for developing and managing robust business continuity and disaster recovery plans.</p><p>Key Learning Objectives:</p><ol><li><p>Understanding Business Resiliency:</p><ul><li><p>Explore the core concepts of business resiliency and its significance in maintaining organizational effectiveness.</p></li><li><p>Learn the components that make up a successful business resiliency strategy.</p></li></ul></li><li><p>Risk Assessment and Management:</p><ul><li><p>Conduct thorough risk assessments to identify potential threats and vulnerabilities.</p></li><li><p>Develop strategies for mitigating risks and enhancing overall organizational resilience.</p></li></ul></li><li><p>Disaster Recovery Planning:</p><ul><li><p>Gain insights into creating and implementing disaster recovery plans (DRPs) that align with organizational goals.</p></li><li><p>Understand critical elements such as recovery time objectives (RTO) and recovery point objectives (RPO).</p></li></ul></li><li><p>Business Continuity Planning:</p><ul><li><p>Dive into the processes involved in business continuity planning (BCP) and the frameworks that support effective continuity strategies.</p></li><li><p>Learn how to create, maintain, and test BCPs to ensure preparedness for various scenarios.</p></li></ul></li><li><p>Leveraging Cisco Solutions:</p><ul><li><p>Understand how to utilize Cisco technologies to enhance business resilience, including networking, security, and collaboration tools.</p></li><li><p>Explore Cisco’s product portfolio that supports effective disaster recovery and continuity efforts.</p></li></ul></li><li><p>Implementation Best Practices:</p><ul><li><p>Discover best practices for implementing business resiliency strategies within organizations.</p></li><li><p>Review real-world case studies that highlight successful business resiliency initiatives.</p></li></ul></li><li><p>Testing and Maintenance:</p><ul><li><p>Learn the importance of regularly testing and updating resiliency plans to ensure effectiveness.</p></li><li><p>Gain skills in conducting drills and simulations to prepare for actual disruptions.</p></li></ul></li></ol><p>Hands-On Labs:</p><p>Throughout the course, you will engage in hands-on labs and practical exercises that provide real-world experience with Cisco solutions for business resiliency. These labs are designed to reinforce your understanding and application of the concepts covered.</p><p>Preparing for the 500-210 Exam:</p><p>Upon completion of this course, you will be well-prepared to take the 500-210 IBR exam. Successfully passing this exam is essential for earning your Cisco Business Resiliency certification, validating your expertise in implementing and managing business resiliency strategies.</p><p>This course is ideal for network engineers, IT managers, and professionals looking to enhance their skills and advance their careers in business resiliency. Join us to take the next step in your professional journey!</p>",
+    "id_name": "500-210-implementing-cisco-business-resiliency",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      { "MD ZAHEDUL ISLAM": "https://www.udemy.com/user/md-zahedul-islam-10/" }
+    ],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 896,
+    "coupon_code": "7694759B6A26FC44F423",
+    "caption_languages": [],
+    "content_info_short": "40 questions",
+    "has_certificate": false,
+    "has_closed_caption": false,
+    "headline": "\"Strategies for Ensuring Business Continuity and Disaster Recovery\"",
+    "num_lectures": 0,
+    "primary_category": "IT & Software",
+    "primary_subcategory": "IT Certifications",
+    "rating": 0,
+    "requirements_data": [
+      "Basic Networking Knowledge",
+      "Familiarity with Cisco Technologies",
+      "Experience in IT Operations"
+    ],
+    "target_audiences": [
+      "Network Security Professionals, IT Professionals, Security Administrators"
+    ],
+    "what_you_will_learn_data": [
+      "Business Resiliency Principles",
+      "Risk Assessment and Managemen",
+      "Disaster Recovery Planning",
+      "Business Continuity Planning"
+    ]
+  },
+  {
+    "id": "çº÷~",
+    "title": "Probability Beyond the Basics:  Part 4",
+    "image": "https://img-c.udemycdn.com/course/480x270/5526934_2d72.jpg",
+    "description": "<p>1. How to calculate the probability of two customers visiting the same shop in the same week on the same day and different days?</p><p><br></p><p>2. A box contains 12 balls out of which x are black. If 6 more black balls are added, the probability of drawing black balls is now double of what it was before. Find x.</p><p><br></p><p>3. A jar contains 24 marbles : some green and some blue marbles. Probability of green marbles is given. How to find the number of blue marbles.</p><p><br></p><p>4. A bag contains 5 red balls and some blue balls. Probability of blue balls is double that of a red ball. How to find the number of blue balls in the bag.</p><p><br></p><p>5. How to find the probability of getting a tail of a coin?</p><p><br></p><p>6. How to find the probability of different coloured balls?</p><p><br></p><p>7. If a die is thrown once, how to calculate the probability of getting a number greater than 4 and the probability of getting a number less than or equal to 4?</p><p><br></p><p>8. How to calculate the probability that the card will be an ace and not be an ace?</p><p><br></p><p>9. Probability of one player winning the match is given. How to find the probability of another player winning the match?</p><p><br></p><p>10. How to find that two friends will have the different birthdays and the same birthdays?</p><p><br></p><p>11. Number of girls and boys in a class given. How to calculate the probability that student representative will be a girl or a boy?</p><p><br></p><p><br></p><p>12. Two different coins are tossed simultaneously. What is the probability that at least one head is got?</p><p><br></p><p>13. In a musical chair game, the music is to stop at any time within 2 minutes. What is the probability that the music will stop within first half minute after starting?</p><p><br></p><p>14. A missing helicopter is reported to have crashed somewhere in the rectangular region. What is the probability that it crashed inside the lake shown in the figure?</p><p><br></p><p>A cartoon has 100 shirts, some of which are good, some having minor defects and some with major defects. A trader accepts only good shirts and another trader rejects major defects shirts. What is the probability that shirt is acceptable to first trader and shirt is acceptable to second trader?</p>",
+    "id_name": "probability-part-4",
+    "instructional_level_simple": "Intermediate",
+    "instructors": [
+      {
+        "Prabh Kirpa Classes": "https://www.udemy.com/user/prabh-kirpa-classes/"
+      }
+    ],
+    "coupon_max_uses": 100,
+    "coupon_uses_remaining": 60,
+    "coupon_code": "BC99A245ADFD72D5D31A",
+    "caption_languages": ["English [Auto]"],
+    "content_info_short": "1.5 hours",
+    "has_certificate": true,
+    "has_closed_caption": true,
+    "headline": "Taking Your Mastery of  Probability to the Next Level",
+    "num_lectures": 8,
+    "primary_category": "Teaching & Academics",
+    "primary_subcategory": "Math",
+    "rating": 4.9,
+    "requirements_data": ["Basic knowledge of Algebra and Geometric concepts"],
+    "target_audiences": ["Students, businessmen and general public"],
+    "what_you_will_learn_data": [
+      "What is the meaning of probability?",
+      "What is the formula for calculation of probability?",
+      "How to calculate the probability of two friends visiting the same shop on the same day and consecutive days?",
+      "If the probability of a player winning the match is given, then how to calculate the probability of another player winning the match?",
+      "How to calculate the probability that two friends will have different birthdays and the same birthday?",
+      "A lake is there inside a rectangular region. How to find the probability that a missing helicopter crashed inside the lake?"
+    ]
+  },
+  {
+    "id": "ã^ùë½",
+    "title": "Personal Finance",
+    "image": "https://img-c.udemycdn.com/course/480x270/4175670_3adf.jpg",
+    "description": "<p>This course will cover personal finance concepts, starting from the basics, and moving to complex topics. We will cover each step thoroughly.</p><p>We will include many example problems, both in the format of presentations and Excel worksheet problems. The Excel worksheet presentations will include a downloadable Excel workbook with at least two tabs, one with the answer, the second with a preformatted worksheet that can be completed in a step-by-step process along with the instructional videos.</p><p>Learners will understand the similarities and differenced between personal finance and business finance. We will discuss how to set personal financial goals, taking into consideration the life cycle and specific life situations and preferences.</p><p>The course will discuss the differences and overlap in fields necessary to make effective personal financial plans including economics, accounting, and finance.</p><p>We will also learn about the concept of time value of money, being able to perform present value and future value calculations and know when such calculations are necessary. Time value of money concepts are some of the most difficult concepts to fully grasp, but they are required when making decisions that will impact future periods like retirement savings decisions. We will go into time value of money concepts early in the course, so we have them ready whenever needed as we move forward in the course.</p><p>Learners will also learn about money managing skills, skills related to accounting, compiling financial data into financial reports, and using those reports to construct budgets.</p>",
+    "id_name": "personal-finance-i",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      {
+        "Robert (Bob) Steele": "https://www.udemy.com/user/c91d6786-95f3-48d8-ab94-cc92431d2aa4/"
+      }
+    ],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 819,
+    "coupon_code": "0B13F81A603CFD22B6F4",
+    "caption_languages": ["English [Auto]"],
+    "content_info_short": "182 hours",
+    "has_certificate": true,
+    "has_closed_caption": true,
+    "headline": "Learn how to plan your personal finances from a certified public accountant (CPA)",
+    "num_lectures": 683,
+    "primary_category": "Finance & Accounting",
+    "primary_subcategory": "Money Management Tools",
+    "rating": 4.6,
+    "requirements_data": ["Basic understanding of corporate finance concepts"],
+    "target_audiences": ["Business students", "Business professionals"],
+    "what_you_will_learn_data": [
+      "Explain the differences between personal finance and corporate finance",
+      "Set personal financial goals for different points in the life cycle, circumstances, and personal preferences",
+      "Describe time value of money concepts",
+      "Calculate future value using multiple methods",
+      "Calculate present value using multiple methods",
+      "Describe money managing skills",
+      "Compile personal financial statements including a balance sheet and income statement",
+      "Create a budget",
+      "Create a budget vs actual report",
+      "Calculate & analyze common personal financial ratios"
+    ]
+  },
+  {
+    "id": "ëM´×",
+    "title": "PRINCE2 Practitioner Practice Tests",
+    "image": "https://img-c.udemycdn.com/course/480x270/6020158_7851.jpg",
+    "description": "<p>Are you ready to take your project management skills to the next level and earn your PRINCE2 Practitioner certification? </p><p>Our comprehensive course PRINCE2 Practitioner Practice Tests, is designed to help you succeed.</p><p>In this course, you will gain a thorough understanding of the PRINCE2 methodology, principles, themes, and processes. You will learn how to apply PRINCE2 concepts in real-world scenarios and tailor the methodology to different project environments. Our course is packed with detailed explanations, practical examples, and tips for exam success.</p><p>What sets this course apart are the realistic practice tests that simulate the actual PRINCE2 Practitioner exam environment. You will have access to multiple full-length practice exams, each designed to test your knowledge and application of PRINCE2 principles. Detailed explanations and solutions are provided for each question, helping you identify areas for improvement and focus your study efforts effectively.</p><p>By the end of this course, you will be well-prepared to pass the PRINCE2 Practitioner exam and apply PRINCE2 methodology in your projects with confidence. Whether you are a seasoned project manager or new to the field, this course will equip you with the knowledge and skills needed to excel.</p><p>Enroll now and take the first step towards becoming a certified PRINCE2 Practitioner!</p>",
+    "id_name": "prince2-practitioner-practice-tests-e",
+    "instructional_level_simple": "Intermediate",
+    "instructors": [
+      { "Manish Nadar": "https://www.udemy.com/user/manish-nadar-22/" }
+    ],
+    "coupon_max_uses": 100,
+    "coupon_uses_remaining": 57,
+    "coupon_code": "BCFEF5DF667A5602244C",
+    "caption_languages": [],
+    "content_info_short": "204 questions",
+    "has_certificate": false,
+    "has_closed_caption": false,
+    "headline": "Ace the 7th edition PRINCE2 Practitioner Exam: Full-Length Practice Tests",
+    "num_lectures": 0,
+    "primary_category": "IT & Software",
+    "primary_subcategory": "IT Certifications",
+    "rating": 5,
+    "requirements_data": ["Desire to Learn"],
+    "target_audiences": [
+      "Project Managers and Team Leads",
+      "Aspiring Project Managers"
+    ],
+    "what_you_will_learn_data": [
+      "PRINCE2 Overview",
+      "Key Concepts and Terminology",
+      "PRINCE2 Principles",
+      "PRINCE2 Themes",
+      "PRINCE2 Processes",
+      "Exam Preparation"
+    ]
+  },
+  {
+    "id": "çÍuç­",
+    "title": "Universidad de Programación - Python, Java, C y C++ - 2024",
+    "image": "https://img-c.udemycdn.com/course/480x270/5811562_16f2_23.jpg",
+    "description": "<p>Nuevo Curso: Universidad de Programación - Edición 2024. </p><p>De Principiante a Experto en Python, Java, C y C++.</p><p>¿Sientes que has perdido oportunidades por no saber programar?</p><p>Es hora de cambiar tu historia y tener éxito en el mundo de la programación con Python, Java, C y C++. Miles de nuestros alumnos han transformado sus vidas con este conocimiento, y tú puedes ser el próximo.</p><p>Únete a nuestra comunidad con más de medio millón de estudiantes en Udemy y elimina tus miedos e inseguridades al momento de programar.</p><p>En este curso integral, aprenderás desde los fundamentos hasta los aspectos más avanzados de Python, Java, C y C++. Con proyectos del mundo real y las tecnologías más utilizadas hoy en día, te convertirás en un desarrollador versátil y competente.</p><p>Lo que aprenderás:</p><ol><li><p>Introducción y Configuración:</p><ul><li><p>Instalación y configuración de las herramientas necesarias.</p></li><li><p>Conceptos básicos de cada lenguaje.</p></li></ul></li><li><p>Fundamentos de Programación:</p><ul><li><p>Variables, operadores y sentencias de decisión (if, else).</p></li><li><p>Manejo de ciclos (for, while) en Python, Java, C y C++.</p></li></ul></li><li><p>Estructuras de Datos:</p><ul><li><p>Tuplas y listas en Python.</p></li><li><p>Arreglos y matrices en Java, C y C++.</p></li></ul></li><li><p>Funciones y Procedimientos:</p><ul><li><p>Definición y uso de funciones en cada lenguaje.</p></li><li><p>Parámetros y retorno de valores.</p></li></ul></li><li><p>Programación Orientada a Objetos (POO):</p><ul><li><p>Conceptos de clases, objetos, herencia y polimorfismo en Python y Java</p></li><li><p>Aplicaciones avanzadas en Python y Java.</p></li></ul></li><li><p>Desarrollo de Aplicaciones del Mundo Real en Python y Java:</p><ul><li><p>Manejo de archivos y conexión a bases de datos con MySQL.</p></li><li><p>Creación de proyectos con arquitectura multicapa moderna.</p></li></ul></li><li><p>Desarrollo de Interfaces Gráficas en Python y Java:</p><ul><li><p>Aplicaciones de escritorio con Tkinter en Python y Swing en Java.</p></li><li><p>Integración de Spring y Spring Boot en proyectos Java.</p></li></ul></li><li><p>Desarrollo Web en Python y Java:</p><ul><li><p>Creación de aplicaciones web con Flask, HTML, CSS, Bootstrap y MySQL en Python.</p></li><li><p>Desarrollo web con Java Empresarial usando JSF, PrimeFaces y Spring Boot.</p></li></ul></li></ol><p>Proyectos Java Especiales Incluidos:</p><ul><li><p>Sistema de Tareas con JavaFX y Spring Boot.</p></li><li><p>Sistema de Empleados con JSPs y Spring Boot.</p></li><li><p>Sistema de Tareas con Thymeleaf y Spring Boot.</p></li><li><p>Sistema de Recursos Humanos FullStack con React JS y Spring Boot.</p></li><li><p>Sistema de Inventarios FullStack con Angular y Spring Boot.</p></li></ul><p>¿Por qué confiar en nosotros? Somos el Ing. Ubaldo Acosta y la Ing. Marcela Gamiño, con más de 20 años de experiencia laboral y más de 14 años enseñando en línea. Hemos creado los cursos más populares en Udemy, como 'Universidad Java' y 'Universidad Python', que son Best Sellers.</p><p>Este curso es altamente práctico, con múltiples ejercicios y proyectos reales. Aprenderás aplicando las mejores prácticas de desarrollo de software y diversos patrones de diseño, lo que te ayudará a resolver problemas de manera eficiente.</p><p>Es hora de transformar tu futuro y dominar la programación con Python, Java, C y C++. Inscríbete ya mismo y comienza tu viaje hacia el éxito.</p><p>Nos vemos dentro del curso.</p><p>Saludos,</p><p>Ing. Ubaldo Acosta e Ing. Marcela Gamiño</p><p>Fundadores de Global Mentoring</p><p>“La educación es el arma más poderosa que puedes usar para cambiar el mundo.”</p>",
+    "id_name": "universidad-de-programacion-python-java-javascript-spring-react",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      { "Ing. Ubaldo Acosta": "https://www.udemy.com/user/ubaldoacosta/" },
+      { "Ing. Marcela Gamiño": "https://www.udemy.com/user/marcegamio/" }
+    ],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 198,
+    "coupon_code": "GM_NOV_24",
+    "caption_languages": [],
+    "content_info_short": "75.5 hours",
+    "has_certificate": true,
+    "has_closed_caption": false,
+    "headline": "Aprende Python, Java, C y C++ desde Cero con Proyectos Reales. Tkinter, Flask, Spring, PrimeFaces, Swing, React y Mysql",
+    "num_lectures": 782,
+    "primary_category": "IT & Software",
+    "primary_subcategory": "Other IT & Software",
+    "rating": 4.8,
+    "requirements_data": [
+      "No se requiere ningún requisito, empezaremos absolutamente desde cero.",
+      "Este curso es especial para gente que inicia desde cero, y quiere aprender a programar con Python, Java, C y C++ en el menor tiempo posible",
+      "Sólo requiere de una computadora y conexión a internet para empezar a estudiar",
+      "Todos los videos están hechos para poder visualizarse desde celulares, tablets o una computadora, así que no hay límites",
+      "Pero para realizar los ejercicios sí se requiere de una PC"
+    ],
+    "target_audiences": [
+      "A gente interesada en aprender Python, Java, C y C++ en el menor tiempo posible",
+      "No se requiere ningún conocimiento previo ni ningún estudio previo",
+      "Cualquier persona que desee aprender a programar con Python, Java, C y C++ puede estudiar este curso, pensado exclusivamente para principiantes y que al finalizar quieran sentirse cómodos y confiados usando Pytho, Java, C y C++"
+    ],
+    "what_you_will_learn_data": [
+      "Aprender Python, Java, C y C++ en el menor tiempo posible. Desde Cero hasta Experto!",
+      "Aprenderás Python, Java, C y C++ de Cero desde conceptos básicos como Variables, Operadores, Sentencias de Decision, Ciclos, Funciones, POO y más.",
+      "Hasta conceptos avanzados como Manejo de Archivos, Conexión a Base de Datos con MySql, Flask, Tkinter, HTML, Spring, Spring Boot, Swing, JSF, PrimeFaces, etc",
+      "Creación de una interface gráfica con Tkinter con Python, y Swing con Java y Spring Boot con Conexión a Base de Datos con MySql",
+      "Creación de una aplicación Web usando Flask con Python y Java con PrimeFaces, JSF, Spring Boot y Mysql"
+    ]
+  },
+  {
+    "id": "ëmµÓ~",
+    "title": "C , C++ , C# , JAVA : ULTIMATE COURSE FOR BEGINNERS",
+    "image": "https://img-c.udemycdn.com/course/480x270/6221037_a8b7.jpg",
+    "description": "<p>C , C++ , C# , JAVA : ULTIMATE COURSE FOR BEGINNERS</p><p><br></p><p>Welcome to the \"C, C++, C#, JAVA: Ultimate Course for Beginners\", your complete guide to mastering four of the most powerful and widely used programming languages in the world. Whether you're new to programming or want to solidify your foundational knowledge, this course offers you a comprehensive introduction to C, C++, C#, and Java, equipping you with the essential skills needed for software development.</p><p>Designed for absolute beginners, this course will help you build a strong foundation in each of these languages, preparing you for more advanced topics in software engineering and development.</p><p><br></p><p>Course Highlights:</p><ul><li><p>Beginner-Friendly Approach: Start with the basics, progressing at a comfortable pace, ensuring you grasp core concepts before moving on to more complex topics.</p></li><li><p>Step-by-Step Tutorials: Learn through structured, easy-to-follow lessons that introduce the unique aspects of each language.</p></li><li><p>Real-World Applications: Get hands-on experience with coding examples that apply directly to real-world programming scenarios.</p><p><br></p></li></ul><p>By the end of this course, you'll have a clear understanding of how to write programs in C, C++, C#, and Java, and you'll be ready to take your programming skills to the next level.</p><p>Enroll today and start your programming journey with four powerful languages!</p><p><br></p><p><br></p>",
+    "id_name": "c-c-c-java-ultimate-course-for-beginners",
+    "instructional_level_simple": "Beginner",
+    "instructors": [
+      {
+        "ARUNNACHALAM SHANMUGARAAJAN": "https://www.udemy.com/user/20cse099-arunnachalam-rs/"
+      }
+    ],
+    "coupon_max_uses": 100,
+    "coupon_uses_remaining": 99,
+    "coupon_code": "27E4D520E26F1ADF306B",
+    "caption_languages": ["English [Auto]"],
+    "content_info_short": "3.5 hours",
+    "has_certificate": true,
+    "has_closed_caption": true,
+    "headline": "LEARN C , C++ , C# , JAVA : ULTIMATE COURSE FOR BEGINNERS",
+    "num_lectures": 65,
+    "primary_category": "IT & Software",
+    "primary_subcategory": "IT Certifications",
+    "rating": 4.6,
+    "requirements_data": ["Basic Computer Knowledge"],
+    "target_audiences": [
+      "Students and Career Changers",
+      "Aspiring Programmers"
+    ],
+    "what_you_will_learn_data": [
+      "Learn the syntax, structure, and control flow of C",
+      "Explore object-oriented programming (OOP) concepts in C++",
+      "Dive into the world of C#, learning the key aspects of this modern language",
+      "Understand Java’s syntax"
+    ]
+  },
+  {
+    "id": "ç^´ë®",
+    "title": "Mastering Linux: The Complete Guide to Becoming a Linux Pro",
+    "image": "https://img-c.udemycdn.com/course/480x270/5160664_5021.jpg",
+    "description": "<p>Linux is a powerful operating system that has become the backbone of many technological systems, from servers to mobile devices. If you want to become a Linux pro, this comprehensive course is designed to help you achieve just that.</p><p>In this course, you will start by learning the basics of Linux and progress to mastering more advanced concepts, including command line, shell scripting, system administration, and network configuration. You will learn how to install Linux, navigate the file system, manipulate files and directories, and manage user accounts.</p><p>Next, you'll explore shell scripting and how to automate repetitive tasks using bash scripting. You will learn how to write scripts to perform system maintenance, automate backups, and perform network and system monitoring.</p><p>Finally, you will delve into network configuration and learn how to set up and manage network interfaces, routing, and firewall rules.</p><p>With real-world examples and hands-on exercises, this course will equip you with the skills you need to become a Linux pro. By the end of the course, you will be able to confidently work with Linux and have the knowledge to manage and maintain Linux systems.</p><p>This course is suitable for anyone who wants to learn Linux, from complete beginners to experienced IT professionals looking to enhance their skills. The course is designed to be comprehensive and easy to follow, with step-by-step instructions and practical examples.</p><p>Throughout the course, you will be challenged with exercises and quizzes to reinforce your knowledge and help you understand the concepts better. You will also have access to a community of like-minded learners, where you can ask questions, share your knowledge, and collaborate on projects.</p><p>By the end of this course, you will have a solid foundation in Linux and the skills to become a Linux pro. You will be able to confidently perform tasks such as system administration, shell scripting, network configuration, and more. You will also be equipped with the knowledge to troubleshoot and resolve issues that may arise while working with Linux.</p><p>Enroll now and take your first step towards mastering Linux. Whether you're looking to boost your career prospects, improve your skills, or just learn something new, this course has everything you need to become a Linux pro.</p>",
+    "id_name": "linux-training",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      {
+        "OCSALY Academy | 400.000+ Students": "https://www.udemy.com/user/online-academy-of-computer-science/"
+      }
+    ],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 90,
+    "coupon_code": "LEARN_LINUX_COURSE",
+    "caption_languages": ["English [Auto]"],
+    "content_info_short": "5 hours",
+    "has_certificate": true,
+    "has_closed_caption": true,
+    "headline": "Learn REAL Linux from Scratch, Build a Strong Foundation with Command Line, Shell Scripting, System Admin, and other PRO",
+    "num_lectures": 44,
+    "primary_category": "IT & Software",
+    "primary_subcategory": "Operating Systems & Servers",
+    "rating": 4.1,
+    "requirements_data": ["Basic Computer Understanding"],
+    "target_audiences": [
+      "Everyone :  This course is designed for individuals who have little to no prior experience with Linux. It provides a comprehensive introduction to Linux commands, terminal usage, and shell scripting, making it an ideal starting point for beginners who want to learn Linux from scratch.",
+      "System Administrators: System administrators who need to manage Linux-based systems will find this course valuable. It covers essential topics such as file and directory permissions, process management, package management, and networking, providing administrators with the necessary skills to effectively manage and troubleshoot Linux systems.",
+      "IT Professionals: IT professionals who work in environments that utilize Linux can benefit from this course. Whether they are involved in network administration, software development, or DevOps, understanding Linux commands, shell scripting, and networking concepts will enhance their ability to work efficiently and effectively in their roles."
+    ],
+    "what_you_will_learn_data": [
+      "Understanding Linux commands and pipes.",
+      "Exploring different Linux commands and their usage with pipes.",
+      "Introduction to the Linux terminal and its key concepts.",
+      "Finding helpful manuals and resources for Linux.",
+      "Understanding Linux directories and their organization.",
+      "Understanding the Linux shell and its role in interacting with the system.",
+      "Working with the LS command to list directory contents.",
+      "Understanding the difference between relative and absolute pathnames.",
+      "Filtering LS output based on specific criteria.",
+      "Copying files and directories using the CP command.",
+      "Utilizing tab auto-completion for faster command entry.",
+      "Working with symbolic and hard link files.",
+      "Manipulating files and directories in Linux.",
+      "Introduction to shell and expansion in Linux.",
+      "Using arithmetic expressions with shell scripting.",
+      "Automating folder creation using shell scripting.",
+      "Quoting techniques in shell scripting.",
+      "Introduction to permissions in Linux and their significance.",
+      "Understanding the differences between UID, GID, and Shadow.",
+      "Managing file and directory permissions in Linux.",
+      "Exploring examples with file permissions.",
+      "Understanding Linux permissions in-depth.",
+      "Changing file permissions using the CHMOD command.",
+      "Fundamentals of processes in Linux systems.",
+      "Exploring the PS AUX command for process management.",
+      "Utilizing the TOP command for monitoring system resources.",
+      "Managing foreground and background processes.",
+      "Bringing background processes to the foreground.",
+      "Understanding and utilizing Linux process signals.",
+      "Introduction to package management systems in Linux.",
+      "Exploring the need for package management tools.",
+      "Understanding and using package management in Linux.",
+      "Fundamentals of TCP/IP networking.",
+      "Exploring the layers of the TCP/IP model.",
+      "Understanding how emails are sent and received over the Internet.",
+      "Explanation of Protocol Data Units (PDU).",
+      "Basic use of switches and data transmission in networking.",
+      "Two networks communicating with a router in the middle.",
+      "Working with the Traceroute (Trcrt) command for network diagnostics.",
+      "Networking with Linux and its various tools and commands.",
+      "and other awesome topics -->"
+    ]
+  },
+  {
+    "id": "×üß_",
+    "title": "Club Java Master - Novato a Experto Java +110hrs Actualizado",
+    "image": "https://img-c.udemycdn.com/course/480x270/1478318_aadb_7.jpg",
+    "description": "<p>Actualizado! +110 horas de video, +8,000 estudiantes, +600 Clases,este es elcurso perfecto para convertirte en un experto Java, Full Stack Java Developer.</p><p>¿Te falta tiempo para estudiaro dinero para invertir en tu capacitación Java o quieres conseguir empleo/trabajo como programador profesional Java?</p><p>Con el curso deClub Java Master te convertirás en un especialista en la tecnología Java (Full Stack Java Developer). Estudiaremos temas desde la lógica de programación, los Fundamentos de Java, Programación Orientada a Objetos con Java, JDBC con Conexión a Bases de Datos, Servlets y JSP's, Struts Framework, Hibernate Framework, Spring Framework,Java Empresarial (Java EE), incluyendo EJB's, JPA, Web Services, Seguridad y más.<br></p><p>El curso cuenta con dos versiones. Toda la primera parte incluye el uso del IDE de IntelliJ, la segunda versión incluye el IDE de Netbeans, así que sin importar cual sea el IDE de tu preferencia podrás aprender y estudiar de ambos IDEs.</p><p>Así que el Club Java Master será la mejor inversión que podrás realizar para convertirte en el experto Java que siempre has soñado.<br></p><p>Con todo lo anterior, tendrás las bases para preparar varias certificaciones como programador Java, además de adquirir el conocimiento para poderaplicar a varias vacantes laborales para comenzar a trabajar como programador Java en tiempo record.</p><p>Este curso cuenta con los siguientes niveles:</p><p><br></p><p>Nivel. Fundamentos de Java<br></p><p>Lección 1 - Comenzando con la Tecnología Java</p><ul><li><p>El asombroso mundo de la programación en Java</p></li><li><p>Qué es la tecnología Java (desde un enfoque práctico)</p></li><li><p>Nuestro primer programa en Java desde cero</p></li></ul><p>Lección 2 - Variables y Operadores en Java</p><ul><li><p>Uso de Variables en Java y para qué las utilizamos</p></li><li><p>Tipos de Datos en Java y cómo se clasifican</p></li><li><p>Manejo y Clasificación de operadores en Java</p></li></ul><p>Lección 3 - Sentencias de Control en Java</p><ul><li><p>Uso de la estructura if-else y dónde utilizarla</p></li><li><p>Manejo de la esctrutura switch y cuando aplicarla</p></li></ul><p>Lección 4 - Manejo de Ciclos en Java</p><ul><li><p>Uso del ciclo for y su uso</p></li><li><p>Uso del ciclo while y cómo aplicarlo</p></li><li><p>Uso del ciclo do-while y cuando utilizarlo</p></li></ul><p>Lección 5 - Programación Orientada a Objetos</p><ul><li><p>Introducción a la Programación Orientada a Objetos (POO)</p></li><li><p>Manejo de Clases en Java</p></li><li><p>Uso de Objetos en Java</p></li></ul><p>Lección 6 - Funciones en Java</p><ul><li><p>Declaración de Métodos o Funciones en Java</p></li><li><p>Uso y llamado de Funciones en Java</p></li></ul><p>Lección 7 - Manejo de Datos en Java</p><ul><li><p>Uso de Arreglos en Java</p></li><li><p>Manejo de Matrices en Java</p></li></ul><p>Lección 8 - Herencia en Java</p><ul><li><p>Manejo de Herencia en Java</p></li><li><p>Uso de superclases y subclases en Java</p></li></ul><p>Laboratorio Final del Nivel</p><ul><li><p>Ejercicio Final donde se integra todo lo aprendido en este Nivel</p></li></ul><p><br></p><p>Nivel. Programación con Java<br></p><p>Lección 1 - Polimorfismo en Java</p><ul><li><p>Qué es el polimorfismo y su aplicación</p></li><li><p>Sobreescritura en Java y su uso</p></li></ul><p>Lección 2 - Manejo Avanzado de Objetos en Java</p><ul><li><p>Conversión de Objetos (cast)</p></li><li><p>Identificando el tipo de objeto con el operador instanceof</p></li><li><p>La importancia y uso del operador this</p></li></ul><p>Lección 3 - Manejo de Bloques de Código en Java</p><ul><li><p>Alcance de Variables (Scope)</p></li><li><p>Uso de bloques estáticos y no estáticos</p></li></ul><p>Lección 4 - Uso de Clases Abstractas e Interfaces en Java</p><ul><li><p>Diferencias entre Clases Abstractas e Interfaces</p></li><li><p>Declaración y uso de Clases Abstractas</p></li><li><p>Manejo de Interfaces en Java y cuándo utilizarlas</p></li></ul><p>Lección 5 - Manejo de Excepciones en Java</p><ul><li><p>Procesando las excepciones en Java</p></li><li><p>Uso de try-catch y propagación de Excepciones</p></li></ul><p>Módulo 6 - Manejo de Colecciones en Java</p><ul><li><p>Uso de las colecciones en Java</p></li><li><p>Manejo de List, Set y Map y la aplicación de cada estructura</p></li></ul><p>Módulo 7 - Manejo de Archivos en Java</p><ul><li><p>Manejo y uso de archivos en Java</p></li><li><p>Manejo de Streams en Java y sus usos</p></li></ul><p>Laboratorio Final del Nivel</p><ul><li><p>Ejercicio Final donde se aplica todo lo aprendido en este nivel</p></li></ul><p><br></p><p>Nivel. Conexión a Bases de Datos con JDBC<br></p><p>Lección 1 - Comenzando con JDBC (Java Database Connectivity)</p><ul><li><p>La necesidad de una base de datos</p></li><li><p>Instalando MySql y Oracle</p></li><li><p>Descarga de controladores (drivers) para conectarnos a la base</p></li></ul><p>Lección 2 - Conectando a la Base de Datos (BD)</p><ul><li><p>Pasos para conectarnos a una base de datos relacional</p></li><li><p>Código JDBC para conectarnos a la base de datos</p></li></ul><p>Lección 3 - Sentencia Select</p><ul><li><p>Pasos para ejecutar la sentencia Select de SQL con JDBC</p></li><li><p>Uso de la sentencia select para leer la información de la BD</p></li></ul><p>Lección 4 - Manipulando Datos con JDBC</p><ul><li><p>Pasos para ejecutar las sentencias insert, update y delete</p></li><li><p>Uso de las sentencias insert,update y delete para manipular información</p></li><li><p>Separación de funciones select, insert, update y delete con JDBC</p></li></ul><p>Lección 5 - Arquitectura Multicapas</p><ul><li><p>Estructurando nuestro código JDBC</p></li><li><p>Creando la capa de datos en una Arquitecturas Multicapas</p></li></ul><p>Lección 6 - Patrones de Diseño</p><ul><li><p>Patrón de Diseño DAO (Data Access Object)</p></li><li><p>Patrón de Diseño DTO (Data Transfer Object) o VO (Value Object)</p></li><li><p>Laboratorio Final con la integración de todo lo visto en este Nivel</p></li></ul><p>Nivel- Servlets y JSPs<br></p><p>Lección 1 - Introducción a la Tecnología Web con Java</p><ul><li><p>El asombroso mundo de la tecnología Web con Java</p></li><li><p>La revolución de las aplicaciones Web y cómo aprovecharla</p></li><li><p>El servidor de aplicaciones Glassfish y cómo utilizarlo</p></li></ul><p>Lección 2 - Conceptos Básicos de los Servlets</p><ul><li><p>Sin misterios: qué es la tecnología de los Servlets</p></li><li><p>Elementos y ciclo de vida de un Servlet</p></li></ul><p>Lección 3 - Manejo de Sesiones con Servlets</p><ul><li><p>Implementación del concepto de Sesiones con Servlets</p></li><li><p>Aprenderemos el uso del objeto HttpSession</p></li><li><p>Implementaremos un carrito de compras Web</p></li></ul><p>Lección 4 - Conceptos Básicos de los JSPs</p><ul><li><p>Estudiaremos cómo crear páginas Web dinámicas con JSPs</p></li><li><p>Aprenderemos los elementos fundamentales de los JSPs</p></li></ul><p>Lección 5 - Conceptos Avanzados de Servlets y JSPs</p><ul><li><p>Veremos cómo crear una aplicación Web integrando los Servlets y JSPs</p></li><li><p>Procesamiento de datos con Servlets y despliegue de información con JSPs</p></li></ul><p>Lección 6 - JSTL y EL (Expression Language) en JSPs</p><ul><li><p>Entenderemos las etiquetas JSTL para facilitar el uso de JSPs</p></li><li><p>Veremos el poder de EL (Expression Language) en los JSPs</p></li></ul><p>Lección 7 - Patrón de Diseño MVC (Model View Controller)</p><ul><li><p>Estudiaremos una arquitectura multicapas del mundo real con Servlets y JSPs</p></li><li><p>Aplicaremos el patrón de diseño MVC con Servlets y JSPs</p></li></ul><p>Lección 8 - Aplicación Control Clientes </p><ul><li><p>Integración de los primeros 5 niveles en un proyecto final </p></li><li><p>Análisis, Diseño y Desarrollo de la aplicación Control de Clientes</p></li><li><p>Este nivel les permite conseguir empleo desde becario o programador Java Jr</p></li></ul><p>Nivel- Java Server Faces<br></p><p>Lección 1 - Introducción a JavaServer Faces</p><ul><li><p>Qué es JSF y su rol en Java EE</p></li><li><p>Conceptos básicos de JSF y MVC</p></li><li><p>HolaMundo con JSF</p></li></ul><p>Lección 2 - ManagedBeans en JSF</p><ul><li><p>Concepto de ManagedBeans en JSF</p></li><li><p>Uso de ModelManagedBeans en JSF</p></li><li><p>Expression Language (EL) en JSF</p></li><li><p>Cocepto de BackingBeans en JSF</p></li><li><p>Manejo de Alcances (Scopes) en JSF</p></li></ul><p>Lección 3 - Reglas de Navegación en JSF</p><ul><li><p>Reglas de Navegación en JSF</p></li><li><p>Ciclo de Vida en JSF</p></li></ul><p>Lección 4 - Validadores en JSF</p><ul><li><p>Manejo de Validadores en JSF</p></li><li><p>Uso de Convertidores en JSF</p></li><li><p>Manejo de Mensajes e Internacionalización en JSF</p></li></ul><p>Lección 5 - Manejo de Eventos en JSF</p><ul><li><p>Uso de Value Change Listener</p></li><li><p>Manejo de ActionListener y ActionEvent en JSF</p></li><li><p>Uso de librería estándar y SelectItems en JSF</p></li></ul><p>Lección 6 - Manejo de Facelets</p><ul><li><p>La evolución de JSP y el uso de Facelets</p></li><li><p>El uso y la importancia de Faceltes en JSF</p></li></ul><p>Lección 7 - Integración de Servicios Java EE</p><ul><li><p>El rol de JSF, EJB y JPA</p></li><li><p>Ejercicio donde se integra todo lo visto en este Nivel</p></li></ul><p><br></p><p>Nivel- Java EE (Básico) (Incluye EJB's y JPA)<br></p><p>Lección 1 - Introducción a Java EE</p><ul><li><p>Introducción al mundo Java Empresarial (Java EE)</p></li><li><p>Stack de Tecnologías Java EE</p></li><li><p>Arquitectura Multicapas en Java EE</p></li><li><p>Instalación de las Herramientas (Eclipse, MySql)</p></li><li><p>Instalación del Servidor de Aplicaciones Glassfish</p></li><li><p>Uso de Maven y JavaEE</p></li><li><p>HolaMundo con JavaEE</p></li></ul><p>Lección 2 - Enterprise Java Beans (EJB)</p><ul><li><p>Introducción a los EJB</p></li><li><p>Tipos y Configuración de un EJB</p></li><li><p>Inyección de Dependencias en Java EE</p></li><li><p>Empaquetamiento y Contenedores empresariales</p></li></ul><p>Lección 3 - Introducción a Java Persistence API (JPA)</p><ul><li><p>Introducción a Java Persistence API (JPA)</p></li><li><p>Entenidimiento de las clases de Entidad en JPA</p></li><li><p>Manejo de EntityManager y Persistence Unit</p></li><li><p>Uso de JPA</p></li></ul><p>Lección 4 - Consultas con JPA</p><ul><li><p>Ciclo de Vida en JPA</p></li><li><p>Tipos de Relaciones en JPA</p></li><li><p>Consultas JPQL en JPA</p></li><li><p>Uso del API de Criteria en JPA</p></li><li><p>Manejo de Transacciones en JPA</p></li></ul><p>Nivel- Java EE (Avanzado) (Incluye Web Services y Seguridad)</p><p>Lección 5 - Rol de JSF</p><ul><li><p>Rol de JSF en Java EE</p></li><li><p>Ajax en JSF</p></li><li><p>PrimeFaces y JSF</p></li><li><p>Integración JSF, PrimeFaces, AJAX, EJB y JPA</p></li></ul><p>Lección 6 - WebServices y JavaEE</p><ul><li><p>Introducción a los Web Services</p></li><li><p>Tipos de Web Services JAX-WS y JAX-RS</p></li><li><p>Qué es un Documento WSDL</p></li><li><p>Uso de Documentos XML y XSD (XML Scheme)</p></li><li><p>Manejo del API de JAXB</p></li><li><p>Estrategias de Generación de Web Services</p></li><li><p>Despliegue de Web Services</p></li><li><p>Creación del Cliente del Servicio Web</p></li></ul><p>Lección 7 - REST Web Services</p><ul><li><p>Introducción a REST Web Services</p></li><li><p>Análisis de Peticiones HTTP</p></li><li><p>Anotaciones del API JAX-RS</p></li><li><p>Integración de EJB y JAX-RS</p></li><li><p>Creación de un Cliente REST</p></li><li><p>Documento WADL y XSD del REST Web Service</p></li><li><p>Despliegue de un REST Web Service</p></li><li><p>Creación Cliente REST Web Service</p></li></ul><p>Lección 8 - Seguridad en Java EE</p><ul><li><p>Introducción a la Seguridad en Java EE</p></li><li><p>Autenticación y Autorización en Java EE</p></li><li><p>Seguridad en la Capa Web en Java EE</p></li><li><p>Seguridad en Capa EJB en Java EE</p></li><li><p>Autenticación de Clientes en Java EE</p></li><li><p>Autenticación del Cliente Web</p></li><li><p>Autenticación del Cliente SOAP y REST Web Service</p></li><li><p>Ejercicio Final con la integración de todo lo aprendido</p></li></ul><p><br></p><p>Nivel- Struts Framework</p><p>Lección 1 - Introducción a Struts Framework</p><ul><li><p>¿Qué es un Struts Framework?</p></li><li><p>Instalación de Herramientas del Curso</p></li></ul><p>Lección 2 - HolaMundo con Struts</p><ul><li><p>Creación del proyecto Web con Struts Framework</p></li><li><p>HolaMundo con Struts.</p></li></ul><p>Lección 3 - Manejo de Acciones con Struts</p><ul><li><p>Acciones con Struts</p></li><li><p>Ejercicio Acciones con Struts</p></li><li><p>Más ejercicios de Acciones con Stu</p></li></ul><p>Lección 4 - Manejo de Formas con Struts</p><ul><li><p>FormBeans con Struts</p></li><li><p>Ejercicio con FormBeans</p></li><li><p>Llenado de Formularios con Struts</p></li></ul><p>Lección 5 - Acciones Avanzadas con Struts</p><ul><li><p>Formas Avanzadas con Struts</p></li><li><p>Ejercicio Formas Avanzadas con Struts</p></li></ul><p>Lección 6 - Internacionalización con Struts</p><ul><li><p>Manejo de Internacionalización con Struts</p></li><li><p>Ejercicio manejo de Mensajes con Struts</p></li><li><p>Ejercicio manejo de Internacionalización con Struts</p></li></ul><p>Lección 7 - Manejo de Excepciones con Struts</p><ul><li><p>Manejo de Excepciones con Struts</p></li><li><p>Ejercicio Manejo de Excepciones con Struts</p></li></ul><p>Lección 8 - Validación Manual con Struts</p><ul><li><p>Validación Manual con Struts</p></li><li><p>Ejerciciodas Validación Manual con Struts</p></li></ul><p>Lección 9- Validación Automática con Struts</p><ul><li><p>Validación Automática con Struts</p></li><li><p>Ejercicio Validación Automática</p></li></ul><p><br></p><p>Lección 10- Manejo de Tiles (Plantillas)con Struts</p><ul><li><p>Uso de Tiles (Plantillas) con Struts</p></li><li><p>Ejercicio Plantillas con Struts</p></li><li><p>Laboratorio Final</p></li><li><p>Conclusión del Curso con Struts</p></li></ul><p><br></p><p>Nivel- Hibernate Framework y JPA (JavaPersistence API)<br></p><p>Lección 1 - Introducción a Hibernate Framework</p><ul><li><p>¿Qué es un ORM - Object Relational Mapping?</p></li><li><p>Cómo Hibernate me ayuda en un diseño multicapas empresarial</p></li><li><p>Cómo ser mucho más productivo en la capa de datos con Hibernate</p></li></ul><p>Lección 2 - Configuración de Hibernate</p><ul><li><p>Revisaremos de los Patrones de Diseño DAO y DTO</p></li><li><p>Pondremos en práctica las operaciones básicas con Hibernate.</p></li><li><p>Crearemos una aplicación Web con JSPs, Servlets y Hibernate.</p></li></ul><p>Lección 3 - Manejo de Relaciones con Hibernate</p><ul><li><p>Estudiaremos los tipos de Asociaciones en Hibernate</p></li><li><p>Veremos las relaciones uno-uno, uno-muchos y muchos-muchos</p></li><li><p>Estudiaremos el concepto de Clases de Entidad que nos ofrece Hibernate</p></li></ul><p>Lección 4 - Ciclo Vida en Objetos de Entidad</p><ul><li><p>Estudiaremos el concepto del Ciclo de Vida en Objetos de Entidad</p></li><li><p>Aprenderemos el concepto de Persistencia y Persistencia en Cascada</p></li></ul><p>Lección 5 - Consultas con HQL</p><ul><li><p>Aprenderemos el lenguaje HQL (Hibernate Query Language)</p></li><li><p>Estudiaremos el concepto de JOINS en HQL</p></li><li><p>Analizaremos el concepto de Lazy Loading y Fetch en HIbernate</p></li></ul><p>Lección 6 - Consultas API Criteria</p><ul><li><p>Estudiaremos el API de Criteria y cómo aplicarlo en Hibernate</p></li><li><p>Analizaremos en qué casos aplicar HQL o el API de Criteria</p></li></ul><p>Lección 7 - Query by Example</p><ul><li><p>Aprenderemos a aplicar Criteria Join y Fetch</p></li><li><p>Utilizaremos Query by Example para crear queries avanzados</p></li></ul><p>Lección 8 - Sistema SGA con Hibernate</p><ul><li><p>Construiremos el sistema SGA con Hibernate</p></li><li><p>La capa de datos la construiremos utilizando Hibernate</p></li><li><p>Crearemos consultas avanzadas con Hibernate</p></li><li><p>Aplicaremos todo lo aprendido en este Nivel</p></li></ul><p><br></p><p>Nivel- Spring Framework<br></p><p>Lección 1 - Introducción a Spring</p><ul><li><p>Qué es Spring y su importancia en el munodo Java EE</p></li><li><p>Conceptos Básicos de Spring y sus módulos</p></li><li><p>Arquitecturas Multicapas utilizando Spring Framework</p></li></ul><p>Lección 2 - Configuración de Spring</p><ul><li><p>Cómo aplica Spring la cohesión y el acomplamiento</p></li><li><p>Qué es la Fábrica de Spring y cómo configurarla</p></li></ul><p>Lección 3 - Inyección de Dependencias</p><ul><li><p>Manejo de Inyección de Dependencias con Spring</p></li><li><p>Relación entre clases y su uso con Spring</p></li><li><p>Tipos de Inyecciones de Dependencias con Spring</p></li><li><p>Uso de Anotaciones con Spring</p></li></ul><p>Lección 4 - Spring y JDBC</p><ul><li><p>Introducción a Spring con JDBC</p></li><li><p>Uso de Plantillas con Spring JDBC</p></li><li><p>Configuración general de Spring JDBC</p></li><li><p>Configuración de un DataSource en Spring</p></li><li><p>Consultas con Spring JDBC</p></li><li><p>Uso de RowMapper con Spring JDBC</p></li></ul><p>Lección 5 - Manejo de Transacciones con Spring</p><ul><li><p>Introducción a Spring con JDBC</p></li><li><p>Definición de TransactionManager en Spring</p></li><li><p>Atributos de una Transacción</p></li><li><p>Propagación de una Transacción en Spring</p></li><li><p>Configuración de Transacciones en Spring</p></li></ul><p>Y muchos temas más.</p><p>Así que empieza tu capacitación hoy mismo.</p><p>Recuerda, tu satisfacción está 100% garantizada o tu dinero de vuelta.</p><p>Te espero del otro lado.</p><p>Ing. Ubaldo Acosta</p><p>Fundador de Global Mentoring<br></p>",
+    "id_name": "club-java-master-de-novato-a-experto-java-javaee-spring-hibernate-jpa",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      { "Ing. Ubaldo Acosta": "https://www.udemy.com/user/ubaldoacosta/" }
+    ],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 226,
+    "coupon_code": "GM_NOV_24",
+    "caption_languages": ["Spanish [Auto]"],
+    "content_info_short": "109.5 hours",
+    "has_certificate": true,
+    "has_closed_caption": true,
+    "headline": "Actualizado Conviértete en Full Stack Java Developer Aprende las tecnologías  Java como Java EE, Spring, Hibernate y más",
+    "num_lectures": 799,
+    "primary_category": "Development",
+    "primary_subcategory": "Programming Languages",
+    "rating": 4.7,
+    "requirements_data": [
+      "No se requiere ningún conocimiento previo, ya que aprenderás Java desde lo más básico hasta lo más avanzado.",
+      "Manejo básico de PC"
+    ],
+    "target_audiences": [
+      "Cualquier interesado en convertirse de Novato a Experto programador Java",
+      "Cualquiera que quiera aprender la lógica de programación con Java",
+      "Cualquiera que quiera aprender la programación orientada a objetos",
+      "Cualquier interesado en aprender JDBC y conectarse a cualquier base de datos con Java",
+      "Cualquier interesado en aprender a crear aplicaciones Java Web con Servlets y JSPs",
+      "Cualquier interesado en aplicar los frameworks más populares como Struts, Spring y Hibernate",
+      "Cualquier interesado en aplicar Java EE y tecnologías como EJB, JPA, Web Services REST y JAX-WS SOAP, Seguridad y mucho más"
+    ],
+    "what_you_will_learn_data": [
+      "Tener los fundamentos de  Java, así como las bases para incluso presentar una certificación Java",
+      "Diseñar sistemas Java orientados a objetos (POO)",
+      "Aplicar patrones de diseño como MVC, DTO, DAO, entre muchos más",
+      "Usar JDBC para conectarse a cualquier base de datos como Oracle o MySql, etc.",
+      "Aplicar Servlets y JSPs para el desarrollo de aplicaciones Web con Java",
+      "Aprenderás a utilizar el  framework de Struts de Apache",
+      "Aplicarás el framework de Hibernate para crear una capa de datos robusta, flexible y escalable",
+      "Dominarás el framework de Spring para aplicarlo a tus sistemas Java del mundo real",
+      "Aplicarás tecnologías de Java EE (versión empresarial Java) y aprenderás EJBs, JPA, Web Services SOAP y REST, Seguridad y mucho más!!!"
+    ]
+  },
+  {
+    "id": "çvçM",
+    "title": "Frequency Distribution  Mastery: Part 2",
+    "image": "https://img-b.udemycdn.com/course/480x270/5452502_9e18_2.jpg",
+    "description": "<p>1. How to make a grouped frequency distribution table where the data in respect of concentration of sulphur dioxide in the air of a certain city for the last few days is given along with class intervals.</p><p>2. How to prepare a frequency distribution table in respect of the data of number of heads occurred when a few coins were tossed many times simultaneously.</p><p>3. The students will learn to form a frequency distribution table when the data in respect of the value of π up to many decimal places is given.</p><p>4. How to form a grouped frequency distribution table when the data in respect of many students is given who watched the TV programmes for different hours in the previous week.</p><p>5. The students will also learn to construct a grouped frequency distribution table where the data in respect of lives of few car batteries is given.</p><p>6. When the large amount of data is to be presented, we can condense the data in to groups and these groupings are called “classes” or “class-intervals” and their size is called the class-size or class width. In each of these groupings/classes, the least number is called the lower class limit and the greater number is called the upper class limit.</p>",
+    "id_name": "exploring-frequency-distribution-tables-part-2",
+    "instructional_level_simple": "Intermediate",
+    "instructors": [
+      {
+        "Prabh Kirpa Classes": "https://www.udemy.com/user/prabh-kirpa-classes/"
+      }
+    ],
+    "coupon_max_uses": 100,
+    "coupon_uses_remaining": 84,
+    "coupon_code": "64061CF603EE7C4C1CA6",
+    "caption_languages": ["English [Auto]"],
+    "content_info_short": "1 hour",
+    "has_certificate": true,
+    "has_closed_caption": true,
+    "headline": "Advanced Techniques for Data  Analysis and Interpretation",
+    "num_lectures": 6,
+    "primary_category": "Teaching & Academics",
+    "primary_subcategory": "Math",
+    "rating": 4.8,
+    "requirements_data": ["Basic knowledge of Algebra and Geometric concepts"],
+    "target_audiences": [
+      "Students and any individual who enjoys learning about various mathematical concepts."
+    ],
+    "what_you_will_learn_data": [
+      "How to make a grouped frequency distribution table where the data in respect of concentration of sulphur dioxide in the air of a certain city for the last few.",
+      "How to prepare a frequency distribution table in respect of the data of number of heads occurred when many coins were tossed many times simultaneously.",
+      "How to form a frequency distribution table when the data in respect of the value of π up to many decimal places is given.",
+      "How to form a grouped frequency distribution table when the data in respect of many students is given who watched the TV programmes for different hours.",
+      "How to construct a grouped frequency distribution table where the data in respect of lives of few car batteries is given."
+    ]
+  },
+  {
+    "id": "çÏvÛn",
+    "title": "Dominate Your Market: frameworks for business success",
+    "image": "https://img-c.udemycdn.com/course/480x270/5892226_0f35_2.jpg",
+    "description": "<p>Are you tired of feeling lost in the business jungle? Do you want to ditch the \"wing it\" approach and develop a winning strategy to conquer your market?</p><p>This course is your secret weapon. We'll equip you with the most powerful business models and frameworks used by industry leaders. But it's not just theory - you'll get hands-on exercises to tailor these frameworks to your specific business.</p><p>Here's what you'll unleash in this course:</p><ul><li><p>Actionable Frameworks: Learn the \"how-to\" behind frameworks like Blue Ocean Strategy, Business Model Canvas, SWOT Analysis, and more.</p></li><li><p>Market Domination Strategies: Discover how to identify your competitive edge, target the right audience, and build a sustainable growth engine.</p></li><li><p>Real-World Application: Put theory into practice with practical exercises that help you adapt these frameworks to your unique business goals.</p></li><li><p>Breakthrough Results: Gain the clarity and confidence to make strategic decisions that propel your business to the top of its game.</p></li></ul><p>This course is perfect for:</p><ul><li><p>Entrepreneurs and business owners ready to take their venture to the next level.</p></li><li><p>Marketing professionals seeking to develop data-driven strategies for market domination.</p></li><li><p>Anyone who wants to gain a strategic edge and outshine the competition.</p></li></ul><p>Stop surviving, start thriving. Enroll now and unlock the frameworks for your business success!</p><p><br></p>",
+    "id_name": "dominate-your-market-frameworks-for-business-success",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      { "Matthieu Bout": "https://www.udemy.com/user/matthieu-bout/" }
+    ],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 807,
+    "coupon_code": "32173CF5248D1FF4AEE7",
+    "caption_languages": ["English [Auto]"],
+    "content_info_short": "7.5 hours",
+    "has_certificate": true,
+    "has_closed_caption": true,
+    "headline": "Essential frameworks for entrepreneurs &amp; business owners. From theory to domination with actionable strategies.",
+    "num_lectures": 66,
+    "primary_category": "Business",
+    "primary_subcategory": "Business Strategy",
+    "rating": 4.3,
+    "requirements_data": [
+      "No specific requirements for entering this course",
+      "The mindset to become a successful manager and leader"
+    ],
+    "target_audiences": [
+      "New managers or recently promoted managers",
+      "Experienced managers wanting to improve their skills",
+      "Technical employees seeking future management positions",
+      "Young potentials seeking for a head start"
+    ],
+    "what_you_will_learn_data": [
+      "How to make strategic decisions in the fast-paced business world.",
+      "How to analyze a business from A to Z and get to the root of a business' success and bottlenecks.",
+      "How to motivate a team and create high engagement.",
+      "Leading an organization through changing circumstances.",
+      "An MBA style course on business and management acronyms",
+      "Discover groundbreaking frameworks and models of management to help you manage yourself and others",
+      "Create better processes, meetings and strategic plans",
+      "And much more..."
+    ]
+  },
+  {
+    "id": "ë_|ÓÍ",
+    "title": "500-490: Implementing Cisco Collaboration Applications",
+    "image": "https://img-c.udemycdn.com/course/480x270/6198081_4fc6.jpg",
+    "description": "<p>The 500-490: Designing Cisco Enterprise Networks (ENDESIGN) course is tailored for IT professionals looking to master the art of designing robust, scalable, and secure enterprise network architectures using Cisco's advanced technologies. As businesses evolve and their networking needs become more complex, the ability to design effective network solutions is critical for ensuring seamless communication, efficient resource utilization, and robust security.</p><p>In this course, you will explore the foundational concepts and best practices involved in enterprise network design. Through a combination of theoretical knowledge and practical applications, you’ll gain hands-on experience in creating network architectures that align with business goals while addressing the challenges of today’s digital landscape.</p><p>Key Learning Objectives:</p><ul><li><p>Understand Network Design Principles: Learn about the foundational principles of designing scalable and resilient networks, including hierarchical design models and modular architectures.</p></li><li><p>Implement Cisco SD-Access: Gain insights into Cisco's Software-Defined Access (SD-Access) technology, enabling automated, secure, and flexible campus networking.</p></li><li><p>Leverage Network Automation: Discover how to utilize Cisco DNA Center and automation tools to streamline network management, reduce operational complexity, and enhance network performance.</p></li><li><p>Design for High Availability: Learn strategies for ensuring network availability through redundancy, load balancing, and disaster recovery planning.</p></li><li><p>Integrate Security Best Practices: Design networks with built-in security features to protect against threats, ensuring data privacy and compliance.</p></li><li><p>Explore Cloud Integration: Understand the complexities of integrating cloud services and hybrid architectures into your network designs, addressing the needs of modern enterprises.</p></li></ul><p>Who Should Attend:</p><p>This course is ideal for network engineers, systems architects, IT managers, and consultants who are involved in designing or managing enterprise networks. Whether you're looking to enhance your existing skills or preparing for advanced networking roles, this course will equip you with the knowledge and tools necessary for success.</p><p>Prerequisites:</p><p>While there are no formal prerequisites, having a CCNA-level understanding of networking concepts and practical experience with Cisco network infrastructure is recommended for maximizing your learning experience in this course.</p><p>Prepare to elevate your networking skills and become proficient in designing enterprise networks that meet the demands of today’s technology landscape!</p>",
+    "id_name": "500-490-implementing-cisco-collaboration-application",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      { "MD ZAHEDUL ISLAM": "https://www.udemy.com/user/md-zahedul-islam-10/" }
+    ],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 940,
+    "coupon_code": "EDCFD63B088D22B81B94",
+    "caption_languages": [],
+    "content_info_short": "50 questions",
+    "has_certificate": false,
+    "has_closed_caption": false,
+    "headline": "\"Mastering Enterprise Network Design: Building Scalable, Secure, and High-Performance Cisco Architectures\"",
+    "num_lectures": 0,
+    "primary_category": "IT & Software",
+    "primary_subcategory": "IT Certifications",
+    "rating": 0,
+    "requirements_data": [
+      "CCNA or Equivalent Knowledge",
+      "Experience with Cisco Network Infrastructure",
+      "Basic Knowledge of Network Security"
+    ],
+    "target_audiences": [
+      "Network Security Professionals, IT Professionals, Security Administrators, Software Developers"
+    ],
+    "what_you_will_learn_data": [
+      "Overview of Cisco Collaboration Applications",
+      "Deployment Strategies",
+      "Integration with Cisco Unified Communications",
+      "Configuration and Administration"
+    ]
+  },
+  {
+    "id": "ë^;×",
+    "title": "PT0-002: CompTIA PenTest+ Practice test 2024",
+    "image": "https://img-c.udemycdn.com/course/480x270/6147147_32f2.jpg",
+    "description": "<p>The CompTIA PenTest+ PT0-002 course offers an in-depth exploration of advanced penetration testing techniques, covering topics such as vulnerability assessment, exploitation, and reporting. By completing this course, you will gain the knowledge and practical experience needed to excel in the field of penetration testing and achieve your CompTIA PenTest+ certification.</p><p>Course Objectives:</p><ul><li><p>Penetration Testing and Vulnerability Assessment:</p><ul><li><p>Conduct Comprehensive Tests: Learn to perform in-depth penetration tests on various types of systems, networks, and applications.</p></li><li><p>Identify Vulnerabilities: Develop skills to discover and assess vulnerabilities in IT environments using a range of tools and techniques.</p></li></ul></li><li><p>Exploitation Techniques:</p><ul><li><p>Exploit Vulnerabilities: Gain hands-on experience in exploiting vulnerabilities to understand the potential impact of security weaknesses.</p></li><li><p>Advanced Exploitation Methods: Learn advanced exploitation techniques for various types of attacks, including web applications and network services.</p></li></ul></li><li><p>Reporting and Communication:</p><ul><li><p>Document Findings: Understand how to create detailed penetration testing reports that clearly communicate findings, risks, and recommendations.</p></li><li><p>Present Results: Develop skills to effectively present your findings to stakeholders, including technical and non-technical audiences.</p></li></ul></li><li><p>Security Controls and Countermeasures:</p><ul><li><p>Understand Defense Mechanisms: Study common security controls and countermeasures to better understand how to evade detection and address security gaps.</p></li><li><p>Recommendations for Improvement: Provide actionable recommendations for improving security posture based on your testing results.</p></li></ul></li><li><p>Ethical and Legal Considerations:</p><ul><li><p>Ethical Hacking Practices: Learn about ethical considerations and legal requirements associated with penetration testing.</p></li><li><p>Compliance and Regulations: Study relevant regulations and compliance standards that impact penetration testing practices.</p></li></ul></li></ul><p>Course Features:</p><ul><li><p>Interactive Learning Modules: Engage with a mix of video lectures, interactive quizzes, and comprehensive readings covering all essential aspects of penetration testing.</p></li><li><p>Hands-On Labs: Gain practical experience through labs and simulations that replicate real-world penetration testing scenarios.</p></li><li><p>Practice Exams: Prepare for the CompTIA PenTest+ PT0-002 exam with practice questions and mock exams that simulate the actual test environment.</p></li><li><p>Expert Instruction: Benefit from the guidance and insights of experienced penetration testers throughout the course.</p></li><li><p>Flexible Learning: Study at your own pace with 24/7 access to course materials, allowing you to balance your learning with other commitments.</p></li></ul><p>Who Should Enroll:</p><ul><li><p>Penetration Testers: Current or aspiring penetration testers seeking to advance their skills and achieve the CompTIA PenTest+ certification.</p></li><li><p>Security Professionals: IT professionals looking to enhance their expertise in penetration testing and vulnerability assessment.</p></li><li><p>Ethical Hackers: Individuals interested in developing their skills in ethical hacking and security assessments.</p></li><li><p>Students: Those preparing for a career in penetration testing or related fields in cybersecurity.</p></li></ul><p>Learning Outcomes:</p><p>Upon successful completion of this course, you will have a comprehensive understanding of advanced penetration testing techniques and practices. You will be well-prepared to take the CompTIA PenTest+ PT0-002 exam and demonstrate your expertise in identifying and addressing security vulnerabilities.</p><p>Enroll today to advance your penetration testing skills and achieve your CompTIA PenTest+ PT0-002 certification!</p>",
+    "id_name": "pt0-002-comptia-pentest-practice-test-2024",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      { "MD ZAHEDUL ISLAM": "https://www.udemy.com/user/md-zahedul-islam-10/" }
+    ],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 912,
+    "coupon_code": "CF414A3DF7AC99D8F8FD",
+    "caption_languages": [],
+    "content_info_short": "50 questions",
+    "has_certificate": false,
+    "has_closed_caption": false,
+    "headline": "\"CompTIA PenTest+ PT0-002: Advanced Techniques in Penetration Testing and Vulnerability Assessment\"",
+    "num_lectures": 0,
+    "primary_category": "IT & Software",
+    "primary_subcategory": "IT Certifications",
+    "rating": 4.8,
+    "requirements_data": [
+      "Basic IT Knowledge",
+      "Experience in IT Security",
+      "Understanding of Penetration Testing Concepts"
+    ],
+    "target_audiences": [
+      "Aspiring IT Technicians, Current IT Support Professionals, Students"
+    ],
+    "what_you_will_learn_data": [
+      "Penetration Testing and Vulnerability Assessment",
+      "Exploitation Techniques",
+      "Reporting and Communication",
+      "Security Controls and Countermeasures"
+    ]
+  },
+  {
+    "id": "ÛßzÛ½",
+    "title": "Microsoft Excel - Beginner to Advance with Example",
+    "image": "https://img-c.udemycdn.com/course/480x270/2996272_25a9_11.jpg",
+    "description": "<p>In this course you are going to learn, daily excel equations which are widely used in daily life with short cut. No prior knowledge is required. We have taken example to teach easily so one can learn from basic with example. Example here taken to send email to the specific person directly from excel by using one button and navigating to the outlook in easy way. </p><p>You are going to learn</p><p>1. Basic excel equations widely used in</p><p>2. Hands on experience to the excel with understanding of basic and widely use shortcuts</p><p>3. Analytical dashboard creation - Pie chart, Bar chart</p><p>4. Data filtration, Border, Sr No., Format Painter</p><p>5. Email shooting by using VBA from excel to specific users from outlook using single button</p><p>6. Codes used in VBA</p><p>7. Data Validation - Drop Down List creation</p><p>8. IF, Nested if, if(And) command as a equation</p><p>9. Use of Conditional Formatting with Example</p><p>10. Remove Duplicates value in Excel</p><p>11. Linking from excel to mail (You can shoot mail by clicking button from excel directly)</p><p>12. Bar Chart, Pie Chart Creation - Dashboard</p><p>13. Understanding of VLOOKUP</p><p>14. Index - Match equation for arranging and fetching right data</p><p>15. Data Filter - Analyze data</p><p>16. Password Protected Mail shooting directly from excel</p><p>17. And many more new things covered</p><p><br></p>",
+    "id_name": "learn-excel-from-beginner-to-advance-with-example",
+    "instructional_level_simple": "All Levels",
+    "instructors": [{ "Meet Doshi": "https://www.udemy.com/user/meet-206/" }],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 320,
+    "coupon_code": "NOVONE24",
+    "caption_languages": ["English [CC]"],
+    "content_info_short": "4.5 hours",
+    "has_certificate": true,
+    "has_closed_caption": true,
+    "headline": "Microsoft Excel Basic to Advance, Learn A to Z, Office 365/2023, 2010, 2013, 2016, Excel 2019,  Zero to Hero guide",
+    "num_lectures": 44,
+    "primary_category": "IT & Software",
+    "primary_subcategory": "Other IT & Software",
+    "rating": 4.4,
+    "requirements_data": [
+      "No prior knowledge is required, You will learn everything you need to know from basic",
+      "Any Fresher to the Excel",
+      "You will learn everything at one place, whatever you need"
+    ],
+    "target_audiences": [
+      "Beginners to the excel",
+      "College students, working professional, businessman",
+      "To become expert in data analytics by using excel",
+      "Who wants to learn excel from basic, and want to become expert",
+      "Want to understand the real life corporate situation and solve from the basic"
+    ],
+    "what_you_will_learn_data": [
+      "Basic excel equations widely used in",
+      "Email shooting by using VBA Directly from excel to specific users",
+      "Hands on experience to the excel with understanding of shortcuts",
+      "Analytical dashboard creation",
+      "Data filtration, Border, Sr No., Format Painter",
+      "Codes used in VBA",
+      "Function today() and Equation additing",
+      "Command Dollar {$} understanding",
+      "Data Validation - Drop Down List creation",
+      "IF, Nested if, if(And) command",
+      "Use of Conditional Formatting with Example",
+      "Remove Duplicates value in Excel",
+      "Automate Boarder - Where data available",
+      "Understanding of VLOOKUP",
+      "Index - Match equation",
+      "Data Filter - Analyse data",
+      "Bar Chart, Pie Chart Creation - Dashboard",
+      "VBA Form Creation",
+      "Password Protected Mail shooting directly from excel",
+      "Complete idea about Pivot Table & Pivot chart"
+    ]
+  },
+  {
+    "id": "çnuï~",
+    "title": "Scrum Master Professional Certification",
+    "image": "https://img-c.udemycdn.com/course/480x270/5251734_52b4.jpg",
+    "description": "<p>Welcome to Scrum Master Professional Certification</p><p>That assessment helps to employees and companies in internal certification procedures.</p><p>Its not a course with theory, its exam for certification / assessment</p><p>Udemy doesn't provide certificates for exam type of courses yet. You may:</p><ol><li><p>Include info about Assessment / Certification to your CV / Linked in (with choosing of MTF as a Educational Provider)<br>after successful finishing of test</p></li><li><p>Write us with screens of finished tests for getting of MTF type of diplomas</p></li></ol><p>In case of any questions, or for certificate getting you may write us to email welcome gtf . pt ot find the contacts at our web site gtf . pt</p><p><br></p><p>Course provided by MTF Institute of Management, Technology and Finance</p><p>MTF is the global educational and research institute with HQ at Lisbon, Portugal, focused on business & professional hybrid (on-campus and online) education at areas: Business & Administration, Science & Technology, Banking & Finance. </p><p>MTF R&D center focused on research activities at areas: Artificial Intelligence, Machine Learning, Data Science, Big Data, WEB3, Blockchain, Cryptocurrency & Digital Assets, Metaverses, Digital Transformation, Fintech, Electronic Commerce, Internet of Things. </p><p>MTF is the official partner of: IBM, Intel, Microsoft, member of the Portuguese Chamber of Commerce and Industry.</p><p>MTF is present in 208 countries and has been chosen by more than 380,000 students.</p><p><br></p><p>Assessment Description: </p><p>The Scrum Master assessment is an important tool for assessing an individual's knowledge and skills related to the Scrum framework, which is a popular Agile project management methodology used by companies worldwide. This assessment consists of a series of multiple-choice questions that cover topics related to Scrum, Agile, and project management, including the roles and responsibilities of the Scrum Master, Scrum events, artifacts, and principles.</p><p><br></p><p>For employees, the Scrum Master assessment is a valuable tool for measuring their understanding of the Scrum framework and identifying areas for improvement. It also helps them validate their expertise in Scrum and demonstrate their commitment to continuous learning and professional development. Passing the Scrum Master assessment can also enhance their credibility with potential employers and increase their chances of landing a job in a company that uses Scrum or Agile methodologies.</p><p><br></p><p>For companies, the Scrum Master assessment is a crucial tool for ensuring that their employees have the necessary skills and knowledge to implement the Scrum framework effectively. It helps companies identify employees who have the required expertise to lead Scrum teams and facilitate Scrum events. This assessment can also help companies identify knowledge gaps and areas where additional training and development may be needed.</p><p><br></p><p>The Scrum Master role is essential for building a career in Agile project management. A Scrum Master is responsible for ensuring that the Scrum framework is implemented effectively, facilitating Scrum events, removing impediments that are preventing the team from achieving its goals, and coaching team members on Agile principles and practices. The Scrum Master is also responsible for ensuring that the team is continuously improving its processes and practices.</p><p><br></p><p>Having a deep understanding of Scrum and Agile methodologies is a valuable asset for individuals who want to pursue a career in project management. Companies are increasingly adopting Agile methodologies like Scrum to increase efficiency, collaboration, and adaptability, making Scrum Masters in high demand. A Scrum Master certification can enhance one's career prospects, open up new job opportunities, and help individuals advance to higher-level roles in their organizations.</p><p><br></p><p>The Scrum Master assessment is a valuable tool for individuals and companies looking to validate their knowledge of Scrum and Agile methodologies. Passing the Scrum Master assessment can help individuals advance their careers and enhance their credibility with potential employers. For companies, the Scrum Master assessment is an important tool for ensuring that their employees have the necessary skills and knowledge to implement the Scrum framework effectively, and for identifying areas where additional training and development may be needed. Overall, the Scrum Master role and Scrum topic are useful for building a career in Agile project management, which is a growing field that offers many opportunities for career growth and professional development.</p><p><br></p><p>Linked topics:</p><ul><li><p>Assessment</p></li><li><p>Certification</p></li><li><p>Scrum master</p></li><li><p>Scrum</p></li><li><p>Agile</p></li><li><p>Scrum master certification</p></li><li><p>Agile project management</p></li><li><p>Agile scrum</p></li><li><p>Project Management</p></li><li><p>Digital</p></li><li><p>Digital Development</p></li><li><p>PSM 1</p></li><li><p>PSM 2</p></li><li><p>PSM</p></li><li><p>Agile scrum master certification</p></li><li><p>PSM1</p></li><li><p>PSM2</p></li><li><p>Agile project management</p></li><li><p>Agile coach</p></li><li><p>Scrum coach</p></li></ul>",
+    "id_name": "professional-scrum-master-assessment-psma",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      {
+        "MTF Institute of Management, Technology and Finance": "https://www.udemy.com/user/mtfinstitute/"
+      }
+    ],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 827,
+    "coupon_code": "AEB90B2F0F301CA27D3F",
+    "caption_languages": [],
+    "content_info_short": "30 questions",
+    "has_certificate": false,
+    "has_closed_caption": false,
+    "headline": "Professional Scrum Master Certification and preparing for certification at other providers",
+    "num_lectures": 0,
+    "primary_category": "IT & Software",
+    "primary_subcategory": "IT Certifications",
+    "rating": 4.6,
+    "requirements_data": [
+      "Basic Knowledge of Scrum and role and functionality of Scrum Master"
+    ],
+    "target_audiences": [
+      "For anybody who want to get certification at scrum or prepare to exams at other certification and learning providers"
+    ],
+    "what_you_will_learn_data": [
+      "Professional Scrum Master Assessment (PSMA)",
+      "Assessment",
+      "Preparing for exams at other certification centers",
+      "Assessment for Individuals and Organisations",
+      "Certification",
+      "Project Management",
+      "Scrum master",
+      "Scrum",
+      "Agile",
+      "Scrum master certification",
+      "Agile project management",
+      "Agile scrum",
+      "Digital, Digital Development",
+      "PSM, PSM 1 , PSM 2, PSM1, PSM2"
+    ]
+  },
+  {
+    "id": "ëmtóß",
+    "title": "Learn Basics of Robotics",
+    "image": "https://img-b.udemycdn.com/course/480x270/6210899_1eee.jpg",
+    "description": "<p>Course Objectives:</p><ul><li><p>Understand the essential components and types of robots.</p></li><li><p>Learn how to build and program simple robots.</p></li><li><p>Develop problem-solving skills through robotics projects.</p></li><li><p>Gain an appreciation for the role of robots in society.</p></li><li><p>Explore future possibilities in robotics and technology.</p></li></ul><p><br></p><p>Learning Outcome:</p><p><br></p><p>This learning process helps students develop critical thinking, teamwork, and innovation. They assemble robots and learn how to program them using platforms like Scratch or Blockly, fostering computational thinking skills. Moreover, robotics encourages a mindset of perseverance and resilience as students face challenges and work to improve their designs.</p><p>Understanding robotics also prepares students for the future, as automation and robotics play a crucial role in the healthcare, manufacturing, and space exploration industries. Schools introducing robotics offer students a chance to explore technology in an engaging, practical way, making them better equipped for tomorrow’s tech-driven world.</p><p><br></p><p>Building and programming robots foster critical thinking, creativity, and teamwork. Students can use easy-to-learn coding platforms likeScratchorBlocklyto bring their robots to life! This learning journey makes tech fun and prepares them for future careers in healthcare, space, and manufacturing. </p><p>Most importantly, robotics encourages perseverance—students rework their designs when something doesn’t work, learning resilience.</p><p>By understanding robotics, students aren’t just playing with cool gadgets—they’re getting ready for a future where technology and automation will be everywhere. Start exploring robotics and be part of the innovation! #RoboticsForKids #FutureTech #STEMLearning</p><p><br></p><p>Happy Learning Guys!</p><p><br></p><p><br></p>",
+    "id_name": "learn-basics-of-robotics",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      {
+        "Dr. Dheeraj Mehrotra": "https://www.udemy.com/user/dr-dheeraj-mehrotra/"
+      }
+    ],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 866,
+    "coupon_code": "EA5DA1F46F939169DFDB",
+    "caption_languages": ["English [Auto]"],
+    "content_info_short": "43 mins",
+    "has_certificate": true,
+    "has_closed_caption": true,
+    "headline": "Towards Excellence",
+    "num_lectures": 8,
+    "primary_category": "Teaching & Academics",
+    "primary_subcategory": "Science",
+    "rating": 4,
+    "requirements_data": ["No programming experience needed"],
+    "target_audiences": ["Educators/ Parents"],
+    "what_you_will_learn_data": [
+      "Introduction To Robotics",
+      "Parts of a Robot",
+      "How Robots Work",
+      "Building Your First Robot"
+    ]
+  },
+  {
+    "id": "ëmw×Í",
+    "title": "DOP-C02: AWS Certified DevOps Engineer Practice test 2024",
+    "image": "https://img-c.udemycdn.com/course/480x270/6213181_3490.jpg",
+    "description": "<p>The AWS Certified DevOps Engineer – Professional (DOP-C02) certification is designed for individuals who are experienced in DevOps practices, focusing on the implementation, management, and automation of AWS infrastructure. It validates skills in provisioning, operating, and managing distributed systems and applications on the AWS platform.</p><p>Key Exam Details:</p><ul><li><p>Exam Duration: 180 minutes</p></li><li><p>Format: Multiple-choice and multiple-response questions</p></li><li><p>Cost: $300 USD (subject to change)</p></li></ul><p>Key Topics Covered:</p><ol><li><p>SDLC Automation: Implementing and managing continuous delivery systems and methodologies on AWS.</p></li><li><p>Configuration Management and Infrastructure as Code: Defining and deploying infrastructure using AWS CloudFormation and other automation tools.</p></li><li><p>Monitoring and Logging: Monitoring, metrics, logging, and security.</p></li><li><p>Policies and Standards Automation: Enforcing governance policies and managing compliance.</p></li><li><p>Incident and Event Response: Troubleshooting and responding to incidents.</p></li><li><p>High Availability, Fault Tolerance, and Disaster Recovery: Implementing scalable and highly available systems on AWS.</p></li></ol><p>Recommended AWS Services:</p><ul><li><p>AWS CodePipeline, AWS CodeBuild, AWS CodeDeploy for CI/CD processes.</p></li><li><p>AWS CloudFormation for infrastructure as code.</p></li><li><p>Amazon CloudWatch for monitoring.</p></li><li><p>AWS Lambda for serverless automation.</p></li></ul><p>Recommended Experience:</p><ul><li><p>2+ years of experience provisioning, operating, and managing AWS environments.</p></li><li><p>Experience with DevOps methodologies such as CI/CD pipelines, automation, and security controls on AWS.</p></li></ul><p>Resources for Preparation:</p><ul><li><p>AWS Whitepapers: Focus on DevOps and best practices for high availability.</p></li><li><p>AWS Training: Enroll in the AWS Certified DevOps Engineer – Professional course.</p></li><li><p>Practice Exams: Take official and third-party practice exams to simulate real exam conditions.</p></li></ul><p>This exam is an advanced certification and is ideal for professionals looking to validate their expertise in managing complex DevOps processes on AWS.</p><p><br></p>",
+    "id_name": "dop-c02-aws-certified-devops-engineer-practice-test",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      { "MD ZAHEDUL ISLAM": "https://www.udemy.com/user/md-zahedul-islam-10/" }
+    ],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 864,
+    "coupon_code": "A78735EE532EAF3C39D5",
+    "caption_languages": [],
+    "content_info_short": "50 questions",
+    "has_certificate": false,
+    "has_closed_caption": false,
+    "headline": "\"Mastering DevOps Practices: Streamlining Software Development and Operations in AWS\"",
+    "num_lectures": 0,
+    "primary_category": "IT & Software",
+    "primary_subcategory": "IT Certifications",
+    "rating": 4.2,
+    "requirements_data": [
+      "Foundations of DevOps",
+      "AWS DevOps Tools",
+      "Infrastructure as Code (IaC)",
+      "Security in DevOps"
+    ],
+    "target_audiences": [
+      "IT Professionals, Business Professionals, Students and Recent Graduates"
+    ],
+    "what_you_will_learn_data": [
+      "Continuous Delivery and Automation: Implementing CI/CD pipelines, automating testing and deployment processes using AWS services.",
+      "Monitoring and Logging: Utilizing AWS tools like CloudWatch and CloudTrail to monitor applications and infrastructure, and implementing logging strategies.",
+      "Infrastructure as Code (IaC): Managing infrastructure using AWS CloudFormation or other IaC tools.",
+      "Security and Compliance: Implementing security best practices and ensuring compliance in a DevOps context.",
+      "Incident and Event Response: Developing incident management processes and troubleshooting issues in AWS environments."
+    ]
+  },
+  {
+    "id": "çºÓ¿",
+    "title": "Cyber Defender's Journey: Virus  Detection and Elimination",
+    "image": "https://img-b.udemycdn.com/course/480x270/5426078_a0c2.jpg",
+    "description": "<ol><li><p>What is the meaning of a computer virus?</p></li><li><p>Why is computer virus named after the biological virus?</p></li><li><p>Whether antivirus software can uncover all computer viruses?</p></li><li><p>Almost all viruses are attached to an executable file. What does it mean?</p></li><li><p>Why is it necessary to be aware of computer viruses and malware?</p></li><li><p>What are some common purposes behind the creation and distribution of computer viruses?</p></li><li><p>What type of disruption is caused by some computer viruses?</p></li><li><p>Certain viruses cause destruction. What type of destruction is caused by them?</p></li><li><p>Some viruses are created with the purpose of theft and espionage. Please elaborate.</p></li><li><p>What is meant by botnet?</p></li><li><p>Some viruses are created for pranks or mischief. Write a few lines.</p></li><li><p>Whether computer viruses created for experimentation can cause damage?</p></li><li><p>Which are some common ways that viruses use to propagate?</p></li><li><p>How viruses do spread through email attachments?</p></li><li><p>How viruses do spread by downloads?</p></li><li><p>Viruses can also spread through removable storage devices. Write a few lines.</p></li><li><p>All viruses are malware but not all malware is virus. Comment.</p></li><li><p>What is meant by malware?</p></li><li><p>Malware always do their best to avoid detection. Comment.</p></li><li><p>What are the various differences between computer virus and malware?</p></li><li><p>Write a short note on the history of computer viruses.</p></li><li><p>The reasons why people make viruses have changed with the passage oftime.Comment.</p></li><li><p>What are those some common indicators which may suggest that our computer system has been infected by virus?</p></li><li><p>Computer virus can change the browser settings of your computer. Comment.</p></li><li><p>What type of action a computer virus may take on the files stored in your computer?</p></li><li><p> What type of unexpected activities can a computer virus can do in respect of email or social media?</p></li><li><p> What are some common types of computer viruses?</p></li><li><p>Detecting and removing viruses is an easy job. Comment.</p></li><li><p>Direct action virus is a virus which directly attacks certain types of files. Which are those files?</p></li><li><p> What is meant by boot sector?</p></li><li><p> What is boot sector virus? Is it easy to remove this virus?</p></li><li><p> Do you agree that macro viruses do not target the underlying computer system itself? Comment.</p></li><li><p> It is difficult to remove polymorphic viruses. Why?</p></li><li><p>What is meant by multipartite virus?</p></li><li><p>File infector viruses target specifically target which type of files?</p></li><li><p> Where does resident virus saves itself?</p></li><li><p> What does the overwrite virus do?</p></li><li><p>What is meant by spacefiller virus?</p></li><li><p>Computer viruses are just one kind of harmful software that can cause problems. Comment.</p></li><li><p>Whether ransomware is a virus?</p></li><li><p>Is trojan a virus? </p></li><li><p> The spread rate of viruses is slow or high in comparison to trojan. Comment.</p></li><li><p> What is the main purpose of trojan horse?</p></li><li><p> Is worm a virus?</p></li><li><p> At which speed worms spread in comparison to viruses?</p></li><li><p> What is the function of spyware?</p></li><li><p>What is meant by adware?</p></li><li><p>Is it easy to tell to identify what type of malware has hit your computer system? Comment.</p></li><li><p> What type of damages a computerviruscando?</p></li><li><p>What are the various steps which we should take to protect our computer from virus?</p></li><li><p>What is the importance of keeping operating software updated?</p></li><li><p> Why should we install reputed antivirus software on our computer?</p></li><li><p> Before using floppies, CDs and USB drive, we should take one action. What is that action?</p></li><li><p>We should avoid using homemade CDs, floppy disks and flash drives. Why?</p></li><li><p>Why should we not install too many security software on our computer?</p></li><li><p>Why should we be cautious of email attachments and links?</p></li><li><p>What is the importance of regularly backing up data?</p></li><li><p>What is the purpose of a firewall?</p></li><li><p> How can we protect our Wi-Fi?</p></li><li><p>Why should we not download software from unfamiliar websites?</p></li><li><p>How can we make a password strong?</p></li><li><p>What are the various steps which we should take if our computer system becomes infected?</p></li><li><p>In case of computer infection, we should disconnect our computer from internet, if we are using any. What is the logic behind that?</p></li><li><p>What purpose is served if we disconnect our infected computer from the local area network with which it is connected?</p></li><li><p>What are the various techniques and technologies used by antivirus software to detect and remove malware?</p></li><li><p>What is meant by signature based detection of viruses?</p></li><li><p>Antivirus software often includes real-time monitoring capabilities. What it means?</p></li><li><p>If antivirus detects any virus in the computer system, what action is taken by the antivirus software?</p></li><li><p>What is meant by cloud based scanning?</p></li><li><p>How machine learning and artificial intelligence helps antivirus software?</p></li><li><p> What is meant by antivirus?</p></li><li><p>What is the meaning of anti-malware?</p></li><li><p>Antivirus software should have some necessary features. What are those?</p></li><li><p>What are future challenges which antivirus software may encounter?</p></li></ol>",
+    "id_name": "from-zero-to-hero-computer-virus-detection-and-eradication",
+    "instructional_level_simple": "Intermediate",
+    "instructors": [
+      {
+        "Prabh Kirpa Classes": "https://www.udemy.com/user/prabh-kirpa-classes/"
+      }
+    ],
+    "coupon_max_uses": 100,
+    "coupon_uses_remaining": 65,
+    "coupon_code": "D65E155732336FB4AD54",
+    "caption_languages": ["English [Auto]"],
+    "content_info_short": "3 hours",
+    "has_certificate": true,
+    "has_closed_caption": true,
+    "headline": "Becoming a Hero in the Battle  Against Malware",
+    "num_lectures": 18,
+    "primary_category": "IT & Software",
+    "primary_subcategory": "Network & Security",
+    "rating": 3.8,
+    "requirements_data": [
+      "Basic Computer Skills, Basic understanding of cybersecurity principles and genuine interest in the subject matter."
+    ],
+    "target_audiences": ["Students, Business owners and General Public"],
+    "what_you_will_learn_data": [
+      "What is the meaning of Computer Virus?",
+      "Why do people create Viruses?",
+      "How do viruses spread?",
+      "What is the difference between Computer Virus and Malware?",
+      "What are some common indicators which may suggest than our computer system has been infected by virus?",
+      "What are some common types of computer viruses?",
+      "What a computer virus can do?",
+      "What is the difference between computer virus and ransomware, trojan horses, worm, spyware and adware?",
+      "How to protect our computer from computer virus?",
+      "Why should we install reputed antivirus/anti-malware software on our computer?",
+      "What to do if our computer system becomes infected?",
+      "How antivirus software works to detect and remove viruses?",
+      "Though antivirus software is a valuable tool for detection of viruses, it is not foolproof. Comment.",
+      "Antivirus or anti-malware which one do we need?",
+      "What are the future challenges of antivirus software?"
+    ]
+  },
+  {
+    "id": "ã}w÷^",
+    "title": "The Git & GitHub Bootcamp: The Complete-Practical Guide",
+    "image": "https://img-c.udemycdn.com/course/480x270/4313914_3067_2.jpg",
+    "description": "<p>This is all about high level overview on Complete Git & GitHub both for the beginners and advanced software professionals.</p><p>If any one wants to develop their Open Source Project Or wants to contribute to the Open Source Project then learning Git and GitHub is must. Even if you are a student and wants to become a software developer Or website designer then learning Git and GitHub will help you achieve your goal with well designed infrastructure to get contribution for your project from different developers.</p><p>Nowadays many professional developers or designers needs to know how to work with Git and GitHub. Git allows us to record different versions of our project and lets us go back in time and check previous states of the project. As for the GitHub, it's an online service where we can share our code to the world and also it allows us to collaborate with different developers. </p><p>This course consists different sections. We will start from Git basics, where you can learn about how to install Git. We will guide how to use the commands on windows mainly, we will create our first local repository, and you will see how to save different versions of the project, as the snapshots, using commits. </p><p>Then we will show you how to go back in time and check the previous states of the project, update them Or delete with help of git checkout, git revert and git reset.</p><p><br></p><p>Course Details:</p><p>You will learn all these below skills in detail:</p><p>Practiacally you will learn </p><ol><li><p>Initialize new Git repository</p></li><li><p>Make changes, add them to staging area and commit</p></li><li><p>Working with command prompt to master your CMD Skills</p></li><li><p>Complete guide on visual studio code editor</p></li><li><p>Create branches, checkout branches and merge branches</p></li><li><p>Perform fast-forward and 3-way merges of the branches</p></li><li><p>Resolve merge conflicts</p></li><li><p>Move into detached HEAD state and make experimental commits there</p></li><li><p>Perform rebasing of the branches</p></li><li><p>Connect local and remote repositories</p></li><li><p>Pushing, fetching and pulling operations</p></li><li><p>Open Pull Request</p></li><li><p>Merge Pull Request</p></li><li><p>Merging with and without merge conflicts</p></li><li><p>Add software versions using Git Tags</p></li><li><p>Create forks from other repositories</p></li><li><p>Contribute to public repositories using technique of forks and pull requests</p></li><li><p>Perform rebasing</p></li><li><p>Git collaboration</p></li><li><p>How to contribute to open source projects</p></li><li><p>Build solid confidence in creating your own projects with different types of licences</p></li></ol><p>You will use not just terminal and shell commands for performing Git operations.In parallel you will also use GUI applicationsthat simplify routine day-by-day Git operations:</p><ul><li><p>GitHub Desktop</p></li><li><p>SourceTree</p></li><li><p>VisualStudio Code</p></li></ul><p>After getting a solid knowledge on Git, we will learn the basics of GitHub. Then we will show you how to push local repository to remote repository and pull the remote repository to our local machine. Then we will show you how to work with one of the greatest features of Git, which is branching. We will learn about how to deal with branches locally and also, remotely. We will show you how to merge branches with different methods, and also, how to deal with merge conflicts. </p><p>Then we will see about forking and contributing. We will learn about how to copy someone else's remote repository on your GitHub account, how to clone it to your local computer and how to contribute to the original project. Finally, we will discuss about collaborating on GitHub. We will go through some really important topics, such as, how to set up a collaboration team, how to define different rules for collaborators and much more. </p><p>We encourage you to feel free to ask the questions if you get stuck at any point of time line related to our course and the commands we have used in our course. Please don't use any strange and the code which is not used in our course, so your cooperation is very important for us. If you have any suggestions then feel free to post in the private message sections and help us to improve our course creating skill. </p><p>So JOIN US & Make your learning journey more easier than before.</p>",
+    "id_name": "git-and-github-a-practical-course-beginner-to-advanced",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      { "Pruthviraja L": "https://www.udemy.com/user/pruthviraja-l/" }
+    ],
+    "coupon_max_uses": 1000,
+    "coupon_uses_remaining": 255,
+    "coupon_code": "PRUTHVIRKT2024",
+    "caption_languages": ["English [Auto]"],
+    "content_info_short": "6.5 hours",
+    "has_certificate": true,
+    "has_closed_caption": true,
+    "headline": "Complete Git  GitHub guide (7 HOURS) - Master all Git features: commits, branches, merging, rebasing &amp; collaborating",
+    "num_lectures": 28,
+    "primary_category": "Development",
+    "primary_subcategory": "Software Development Tools",
+    "rating": 4.3,
+    "requirements_data": [
+      "VS Code Editor Or Any Text Or Code Editor",
+      "Basic Knowledge on Command Prompt Terminal but not necessary",
+      "No prior knowledge of Git and GitHub is required",
+      "Interest in learning new skill about version control system"
+    ],
+    "target_audiences": [
+      "Beginner web developers",
+      "Anyone who wants to learn about Git and GitHub",
+      "Students who have some basic knowledge about version control systems and want to develop their skills",
+      "All the Open Source Software developing team leads who wants to work with Git & GitHub",
+      "Students who have some basic knowledge about version control systems and want to develop their skills"
+    ],
+    "what_you_will_learn_data": [
+      "Basics of Git",
+      "Git installation",
+      "The basics of command prompt terminal in Windows",
+      "How to handle local Git repositories",
+      "How to make commits using Git terminal and VSC",
+      "How to check the history of your project",
+      "Using github for source control",
+      "How to use Git Commands"
+    ]
+  },
+  {
+    "id": "ç]¼çn",
+    "title": "Atlassian Confluence for Beginners",
+    "image": "https://img-c.udemycdn.com/course/480x270/5128526_bff2_3.jpg",
+    "description": "<p>Atlassian Confluence for Beginners\" is a comprehensive and hands-on training program designed to help participants master the use of Confluence. Confluence is a collaboration and knowledge management tool that enables teams to work together and share information more efficiently. This course is aimed at individuals who are new to Confluence and want to learn how to effectively use it in their daily work. The course covers the basics of Confluence, including creating and editing pages, organizing content, and collaborating with others.</p><p>Participants will learn how to create pages, blogs, and spaces in Confluence and understand the various page formatting options. They will also learn how to organize content using labels, categories, and linking pages. The course also covers the collaboration features of Confluence, including commenting, sharing pages, and working with others in real-time. In addition, participants will learn how to use Confluence to manage projects and create knowledge bases.</p><p>The course is taught by experienced instructors who have used Confluence in real-world situations. They will provide hands-on training and practical examples to help participants understand the concepts and apply them in their own work. The course also includes interactive exercises and quizzes to reinforce the material.</p><p>By the end of the course, participants will have a solid understanding of Confluence and be able to use it to improve their teamwork and efficiency. Whether you are a team member, project manager, or business analyst, this course will help you get the most out of Confluence and take your productivity to the next level.</p>",
+    "id_name": "atlassian-confluence-for-beginners",
+    "instructional_level_simple": "All Levels",
+    "instructors": [
+      { "Manish Nadar": "https://www.udemy.com/user/manish-nadar-22/" }
+    ],
+    "coupon_max_uses": 100,
+    "coupon_uses_remaining": 43,
+    "coupon_code": "227D8A2E0B097A3B0B02",
+    "caption_languages": ["English [CC]"],
+    "content_info_short": "1 hour",
+    "has_certificate": true,
+    "has_closed_caption": true,
+    "headline": "Ability to navigate the user interface, advanced formatting options",
+    "num_lectures": 11,
+    "primary_category": "IT & Software",
+    "primary_subcategory": "IT Certifications",
+    "rating": 4.7,
+    "requirements_data": [
+      "No prior experience with Atlassian Confluence is necessary.",
+      "Basic computer skills and knowledge of how to use a web browser."
+    ],
+    "target_audiences": [
+      "New users of Confluence who want to quickly become proficient in using the tool for their work.",
+      "Individuals who want to expand their knowledge of project management tools and improve their collaboration skills.",
+      "Teams who want to learn best practices for using Confluence in their organization.",
+      "IT and technology professionals who want to understand how to use Confluence as a platform for document management and collaboration.",
+      "Aspiring Project managers, Business Analysts, Software Developers and team leads who want to better understand how to use Confluence for team collaboration and project documentation."
+    ],
+    "what_you_will_learn_data": [
+      "Understanding the purpose and benefits of using Confluence for collaboration and documentation.",
+      "Ability to navigate the user interface, create and edit pages, and organize content using labels and spaces.",
+      "Knowledge of advanced formatting options, such as tables, macros, and linking to other pages and content.",
+      "Familiarity with creating and managing permissions, comments, and notifications for teams and projects."
+    ]
+  }
+]
