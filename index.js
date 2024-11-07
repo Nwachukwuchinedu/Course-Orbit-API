@@ -10,7 +10,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Enable CORS for all routes before defining routes
-app.use(cors({ origin: "http://localhost:5173" }));
+app.use(cors({ origin: "https://course-orbit-api.onrender.com" }));
 
 // Middleware to parse JSON bodies
 app.use(express.json());
