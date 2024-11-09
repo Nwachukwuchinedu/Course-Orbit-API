@@ -38,7 +38,6 @@ const sendTelegramUpdates = async (req, res) => {
     const data = await response.json();
 
     // Log data to check structure
-    console.log("Parsed data:", data);
 
     // Check if `data` is an array before calling `.filter()`
     if (!Array.isArray(data)) {
