@@ -34,7 +34,7 @@ const sendTelegramUpdates = async (req, res) => {
       throw new Error(`HTTP error! Status: ${response.status}`);
     }
 
-    const data = response.data; // Assuming the response is an array of course objects
+    const data = await response.data; // Assuming the response is an array of course objects
 
     // Filter new entries and only take the first three
     const newEntries = data
