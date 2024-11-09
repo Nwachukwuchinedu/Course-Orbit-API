@@ -58,7 +58,8 @@ const sendTelegramUpdates = async (req, res) => {
 ⏳ ${entry.content_info_short}
 🆓 ${entry.coupon_uses_remaining} Enrolls Left
 ⭐ ${entry.rating || "0"} (${entry.num_reviews} ratings)
-📂 ${"#" + entry.primary_category}.${entry.primary_subcategory}
+📂 <i>${entry.primary_category}</i>
+📚 <i>${entry.primary_subcategory}</i>
         `;
 
         // Options for sending the image with the formatted caption and button
