@@ -34,7 +34,16 @@ const sendTelegramUpdates = async (req, res) => {
       throw new Error(`HTTP error! Status: ${response.status}`);
     }
 
-    const data = await response.data; // Assuming the response is an array of course objects
+    // Parse the response body as JSON
+    const data = await response.json();
+
+    // Log data to check structure
+    console.log("Parsed data:", data);
+
+    // Check if `data` is an array before calling `.filter()`
+    if (!Array.isArray(data)) {
+      throw new TypeError("Expected data to be an array");
+    }
 
     // Filter new entries and only take the first three
     const newEntries = data

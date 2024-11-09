@@ -3,25 +3,24 @@ import chromium from "@sparticuz/chromium";
 import dotenv from "dotenv";
 dotenv.config();
 
-
 const courses = async (req, res) => {
   const apiUrl = process.env.COURSES_API; // Replace with the actual external API URL
   const offset = req.body.offset || 30; // Use the offset from the request or default to 30
 
   try {
     // Launch Puppeteer with Chromium configurations for server environments
-  //  const browser = await puppeteer.launch({ headless: true });
-      const browser = await puppeteer.launch({
-     args: [
-       "--disable-setuid-sandbox",
-       "--no-sandbox",
-       "--single-process",
-       "--no-zygote",
-     ],
-     executablePath: await chromium.executablePath(),
-     headless: chromium.headless,
-   });
-   const page = await browser.newPage();
+    //  const browser = await puppeteer.launch({ headless: true });
+    const browser = await puppeteer.launch({
+      args: [
+        "--disable-setuid-sandbox",
+        "--no-sandbox",
+        "--single-process",
+        "--no-zygote",
+      ],
+      executablePath: await chromium.executablePath(),
+      headless: chromium.headless,
+    });
+    const page = await browser.newPage();
 
     await page.setUserAgent(
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
