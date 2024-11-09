@@ -54,11 +54,11 @@ const sendTelegramUpdates = async (req, res) => {
         const messageContent = `
 <b>🖥️ ${entry.title}</b>
 
-📝 ${entry.headline || ""}
+📝 ${entry.headline}
 ⏳ ${entry.content_info_short}
 🆓 ${entry.coupon_uses_remaining} Enrolls Left
-⭐ ${entry.rating || "N/A"} (${entry.rated_by || "0"} ratings)
-📂 ${entry.primary_category || "General"}
+⭐ ${entry.rating || "0"} (${entry.rated_by || entry.num_reviews} ratings)
+📂 ${entry.primary_category}.${entry.primary_subcategory}
         `;
 
         // Options for sending the image with the formatted caption and button

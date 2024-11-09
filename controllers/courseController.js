@@ -67,6 +67,8 @@ const courses = async (req, res) => {
       requirements_data: course.requirements_data,
       target_audiences: course.target_audiences,
       what_you_will_learn_data: course.what_you_will_learn_data,
+      num_reviews: course.num_reviews,
+      primary_subcategory: course.primary_subcategory,
     }));
 
     // Close the browser
