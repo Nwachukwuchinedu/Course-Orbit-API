@@ -57,7 +57,7 @@ const sendTelegramUpdates = async (req, res) => {
 📝 ${entry.headline}
 ⏳ ${entry.content_info_short}
 🆓 ${entry.coupon_uses_remaining} Enrolls Left
-⭐ ${entry.rating || "0"} ${entry.num_reviews} ratings
+⭐ ${entry.rating || "0"} (${entry.num_reviews} ratings)
 📂 ${"#" + entry.primary_category}.${entry.primary_subcategory}
         `;
 
