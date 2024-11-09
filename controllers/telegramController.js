@@ -19,9 +19,21 @@ const sendTelegramUpdates = async (req, res) => {
   const apiUrl = process.env.COURSES_API_1; // Replace with the actual external API URL
 
   try {
-    const response = await axios.post(apiUrl, {
-      offset: currentOffset, // Send the current offset with the request
+    const response = await fetch(apiUrl, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        offset: currentOffset, // Send the current offset with the request
+      }),
     });
+
+    // Check if the response is successful
+    if (!response.ok) {
+      throw new Error(`HTTP error! Status: ${response.status}`);
+    }
+
     const data = response.data; // Assuming the response is an array of course objects
 
     // Filter new entries and only take the first three
