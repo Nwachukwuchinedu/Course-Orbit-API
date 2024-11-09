@@ -6,3 +6,6 @@ offset
 30
 
 https://courson.xyz/load-more-coupons
+
+const BOT_TOKEN = "7272799590:AAHILFOJO9mGLm5iQDzUnNEclFMkaEyFnkI";
+const GROUP_CHAT_ID = "-1002348699392";

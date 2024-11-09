@@ -1,5 +1,7 @@
 import express from "express";
 import coursesRoute from "./routes/coursesRoute.js";
+import filterRoute from "./routes/filterRoute.js";
+import telegramRoute from "./routes/telegramRoute.js";
 import puppeteer from "puppeteer-extra";
 import StealthPlugin from "puppeteer-extra-plugin-stealth";
 import cors from "cors";
@@ -29,9 +31,11 @@ app.use(express.json());
 
 // Define routes
 app.use("/api", coursesRoute);
+app.use("/api", filterRoute);
+app.use("/api", telegramRoute);
 
 app.get("/", (req, res) => {
-  res.send("This is express app");
+  res.send("Hello World!");
 });
 
 app.listen(PORT, () => {
