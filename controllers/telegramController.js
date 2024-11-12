@@ -105,9 +105,9 @@ const sendTelegramUpdates = async (req, res) => {
 };
 
 // Schedule to call the controller function every 90 seconds
-setInterval(async () => {
-  await sendTelegramUpdates();
-}, 90000);
+// setInterval(async () => {
+//   await sendTelegramUpdates();
+// }, 90000);
 
 // Export the controller as the default export
 export default sendTelegramUpdates;
