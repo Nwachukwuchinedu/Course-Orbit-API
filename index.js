@@ -31,7 +31,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Enable CORS for all routes before defining routes
-const allowedOrigins = ["https://courseorbit.vercel.app", "http://localhost:5173"];
+const allowedOrigins = ["https://course-orbit.vercel.app", "http://localhost:5173"];
 
 app.use(
   cors({
