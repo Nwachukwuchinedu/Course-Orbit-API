@@ -9,6 +9,8 @@ import cors from "cors";
 import mongoose from "mongoose";
 import dotenv from "dotenv";
 import authRoutes from "./routes/authRoutes.js";
+import cron from "node-cron";
+import { cleanupCoupons } from "./controllers/couponCleanupController.js";
 dotenv.config();
 
 // Connect to MongoDB
@@ -54,6 +56,12 @@ app.use("/api/auth", authRoutes);
 
 app.get("/", (req, res) => {
   res.send("Hello World!");
+});
+
+// Schedule the cleanup job to run every 10 minutes
+cron.schedule("*/10 * * * *", () => {
+  console.log("Running coupon cleanup job...");
+  cleanupCoupons();
 });
 
 app.listen(PORT, () => {
