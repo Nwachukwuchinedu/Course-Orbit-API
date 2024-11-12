@@ -1,7 +1,7 @@
 import puppeteer from "puppeteer-extra";
 import dotenv from "dotenv";
 import Course from "../models/courseModel.js";
-
+import chromium from "@sparticuz/chromium";
 dotenv.config();
 
 const courses = async (req, res) => {
