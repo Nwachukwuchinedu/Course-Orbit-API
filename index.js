@@ -1,11 +1,30 @@
 import express from "express";
 import coursesRoute from "./routes/coursesRoute.js";
+import courseRoute from "./routes/courseRoute.js";
 import filterRoute from "./routes/filterRoute.js";
 import telegramRoute from "./routes/telegramRoute.js";
 import puppeteer from "puppeteer-extra";
 import StealthPlugin from "puppeteer-extra-plugin-stealth";
 import cors from "cors";
+import mongoose from "mongoose";
+import dotenv from "dotenv";
+import authRoutes from "./routes/authRoutes.js";
+dotenv.config();
 
+// Connect to MongoDB
+mongoose
+  .connect(process.env.MONGODB_URI, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+  })
+  .then(() => {
+    console.log("Connected to MongoDB");
+  })
+  .catch((err) => {
+    console.error("Error connecting to MongoDB:", err);
+  }); 
+
+  // Use the StealthPlugin to enhance Puppeteer's stealth capabilities
 puppeteer.use(StealthPlugin());
 
 const app = express();
@@ -31,8 +50,10 @@ app.use(express.json());
 
 // Define routes
 app.use("/api", coursesRoute);
+app.use("/api", courseRoute);
 app.use("/api", filterRoute);
-app.use("/api", telegramRoute);
+// app.use("/api", telegramRoute);
+app.use("/api/auth", authRoutes);
 
 app.get("/", (req, res) => {
   res.send("Hello World!");

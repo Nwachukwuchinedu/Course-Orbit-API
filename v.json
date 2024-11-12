@@ -1,0 +1,8 @@
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3MzA3NDc2Mjc0NTEwNDNhNDllNjU4ZSIsImlhdCI6MTczMTIzODgwNywiZXhwIjoxNzMxMjQ2MDA3LCJpc3MiOiJjb3Vyc2VvcmJpdCJ9.Ar-8-NFitAVs5_LgA8DDMRpRTkUcvOhrKwigJ0Y-aBI",
+  "user": {
+    "id": "6730747627451043a49e658e",
+    "name": "John Doe",
+    "email": "johndoe@exampl.com"
+  }
+}

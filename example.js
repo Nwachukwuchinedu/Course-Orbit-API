@@ -37,3 +37,19 @@ fs.readFile("i.json", "utf8")
   .catch((error) => {
     console.error("There was a problem with reading the file:", error);
   });
+
+
+  import crypto from "crypto";
+
+  // Generate a random 256-bit secret key (32 bytes, 64 characters in hexadecimal)
+  const secret = crypto.randomBytes(32).toString("hex");
+  console.log(secret);
+
+  import bcrypt from "bcrypt";
+
+  // Hash the password
+  const testPassword = "111111";
+  const hash = await bcrypt.hash(testPassword, 12);
+  const comparisonResult = await bcrypt.compare(testPassword, hash);
+  console.log("Manual hash:", hash);
+  console.log("Comparison result:", comparisonResult);
