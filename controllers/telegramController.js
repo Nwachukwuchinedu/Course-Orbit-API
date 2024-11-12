@@ -70,7 +70,7 @@ const sendTelegramUpdates = async (req, res) => {
               [
                 {
                   text: "Enroll Now 🚀",
-                  url: `https://www.udemy.com/course/${entry.id_name}/?couponCode=${entry.coupon_code}`,
+                  url: `https://course-orbit.vercel.app/course/${entry.id}`,
                 },
               ],
             ],
