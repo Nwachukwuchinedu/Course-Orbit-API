@@ -81,12 +81,14 @@ router.post("/login", async (req, res) => {
   try {
     const user = await User.findOne({ email });
     if (!user) {
-      return res.status(401).json({ message: "Invalid email or password" });
+      // Return JSON response indicating the email was not found
+      return res.status(401).json({ email: "Email not found" });
     }
 
     const isMatch = await bcrypt.compare(password, user.password);
     if (!isMatch) {
-      return res.status(401).json({ message: "Invalid email or password" });
+      // Return JSON response indicating the password does not match
+      return res.status(401).json({ password: "Password does not match" });
     }
 
     const token = generateToken(user._id);
@@ -98,6 +100,7 @@ router.post("/login", async (req, res) => {
     res.status(500).json({ message: "Server error", error: err.message });
   }
 });
+
 
 // Get current user (protected route)
 router.get("/user/me", verifyToken, async (req, res) => {
