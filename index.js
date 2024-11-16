@@ -12,6 +12,7 @@ import authRoutes from "./routes/authRoutes.js";
 import cron from "node-cron";
 import { cleanupCoupons } from "./controllers/couponCleanupController.js";
 import searchCoursesRoute from "./routes/searchCoursesRoute.js";
+import paymentRoute from "./routes/paymentRoute.js";
 dotenv.config();
 
 // Connect to MongoDB
@@ -31,7 +32,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Enable CORS for all routes before defining routes
-const allowedOrigins = ["https://course-orbit.vercel.app", "http://localhost:5173"];
+const allowedOrigins = ["https://course-orbit.vercel.app", "http://localhost:5173", "http://127.0.0.1:5500"];
 
 app.use(
   cors({
@@ -55,6 +56,7 @@ app.use("/api", filterRoute);
 // app.use("/api", telegramRoute);
 app.use("/api/auth", authRoutes);
 app.use("/api", searchCoursesRoute);
+app.use("/api", paymentRoute);
 
 app.get("/", (req, res) => {
   res.send("Hello World!");
