@@ -8,7 +8,7 @@ export const searchCourses = async (req, res) => {
     // Use a regular expression for partial matching (case-insensitive)
     const courses = await Course.find({
       title: { $regex: searchTerm, $options: "i" },
-    }).select("id title headline image");
+    }).select("id title image");
 
     if (!courses || courses.length === 0) {
       return res.status(404).json({
