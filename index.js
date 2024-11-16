@@ -11,6 +11,7 @@ import dotenv from "dotenv";
 import authRoutes from "./routes/authRoutes.js";
 import cron from "node-cron";
 import { cleanupCoupons } from "./controllers/couponCleanupController.js";
+import searchCoursesRoute from "./routes/searchCoursesRoute.js";
 dotenv.config();
 
 // Connect to MongoDB
@@ -53,6 +54,7 @@ app.use("/api", courseRoute);
 app.use("/api", filterRoute);
 // app.use("/api", telegramRoute);
 app.use("/api/auth", authRoutes);
+app.use("/api", searchCoursesRoute);
 
 app.get("/", (req, res) => {
   res.send("Hello World!");
