@@ -27,6 +27,7 @@ const courseSchema = new mongoose.Schema({
   num_reviews: Number,
   language: String,
   instructional_level_simple: String,
+  badges: Array,
 });
 
 // Create the model
