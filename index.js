@@ -13,6 +13,7 @@ import cron from "node-cron";
 import { cleanupCoupons } from "./controllers/couponCleanupController.js";
 import searchCoursesRoute from "./routes/searchCoursesRoute.js";
 import paymentRoute from "./routes/paymentRoute.js";
+import updateCourseToDatabaseRoute from "./routes/updateCourseToDatabaseRoute.js";
 dotenv.config();
 
 // Connect to MongoDB
@@ -61,7 +62,7 @@ app.use("/api", filterRoute);
 app.use("/api/auth", authRoutes);
 app.use("/api", searchCoursesRoute);
 app.use("/api", paymentRoute);
-
+app.use("/api", updateCourseToDatabaseRoute);
 app.get("/", (req, res) => {
   res.send("Hello World!");
 });
