@@ -72,7 +72,7 @@ const fetchAndUploadCourses = async () => {
         };
 
         // Log the course ID
-        console.log(`Offset: ${offset}, Course ID: ${updatedCourse.id}`);
+        // console.log(`Offset: ${offset}, Course ID: ${updatedCourse.id}`);
 
         // Save or update the course in MongoDB
         return Course.updateOne(
