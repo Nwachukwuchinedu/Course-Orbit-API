@@ -3,6 +3,7 @@ import coursesRoute from "./routes/coursesRoute.js";
 import courseRoute from "./routes/courseRoute.js";
 import filterRoute from "./routes/filterRoute.js";
 import telegramRoute from "./routes/telegramRoute.js";
+import sendCourseAPI from "./routes/sendCourseAPI.js";
 import puppeteer from "puppeteer-extra";
 import StealthPlugin from "puppeteer-extra-plugin-stealth";
 import cors from "cors";
@@ -13,7 +14,8 @@ import cron from "node-cron";
 import { cleanupCoupons } from "./controllers/couponCleanupController.js";
 import searchCoursesRoute from "./routes/searchCoursesRoute.js";
 import paymentRoute from "./routes/paymentRoute.js";
-import updateCourseToDatabaseRoute from "./routes/updateCourseToDatabaseRoute.js";
+// import updateCourseToDatabaseRoute from "./routes/updateCourseToDatabaseRoute.js";
+
 dotenv.config();
 
 // Connect to MongoDB
@@ -30,13 +32,14 @@ mongoose
 puppeteer.use(StealthPlugin());
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 5000;
 
 // Enable CORS for all routes before defining routes
 const allowedOrigins = [
   "https://course-orbit.vercel.app",
   "http://localhost:5173",
   "https://course-orbit-payment.vercel.app",
+  "http://127.0.0.1:5500",
 ];
 
 app.use(
@@ -62,7 +65,8 @@ app.use("/api", filterRoute);
 app.use("/api/auth", authRoutes);
 app.use("/api", searchCoursesRoute);
 app.use("/api", paymentRoute);
-app.use("/api", updateCourseToDatabaseRoute);
+// app.use("/api", updateCourseToDatabaseRoute);
+app.use("/api", sendCourseAPI);
 app.get("/", (req, res) => {
   res.send("Hello World!");
 });
