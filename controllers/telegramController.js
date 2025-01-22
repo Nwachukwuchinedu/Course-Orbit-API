@@ -36,7 +36,6 @@ const sendTelegramUpdates = async (req, res) => {
 
     // Parse the response body as JSON
       const rawResponse = await response.text(); // Get raw response as text
-      console.log("Raw Response:", rawResponse);
 
       // Check if the response is empty or not JSON
       if (
@@ -51,7 +50,7 @@ const sendTelegramUpdates = async (req, res) => {
       }
 
       const data = JSON.parse(rawResponse);
-      
+
     // Log data to check structure
 
     // Check if `data` is an array before calling `.filter()`
