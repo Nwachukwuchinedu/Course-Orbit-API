@@ -35,15 +35,30 @@ const sendTelegramUpdates = async (req, res) => {
     }
 
     // Parse the response body as JSON
-    const data = await response.json();
+      const rawResponse = await response.text(); // Get raw response as text
+      console.log("Raw Response:", rawResponse);
 
+      // Check if the response is empty or not JSON
+      if (
+        !rawResponse ||
+        response.headers.get("Content-Type") !== "application/json"
+      ) {
+        console.warn(
+          "Response is not valid JSON or is empty. Skipping parsing."
+        );
+        if (res) res.status(204).send("No valid data received");
+        return [];
+      }
+
+      const data = JSON.parse(rawResponse);
+      
     // Log data to check structure
 
     // Check if `data` is an array before calling `.filter()`
     if (!Array.isArray(data)) {
       throw new TypeError("Expected data to be an array");
     }
-      
+
     // Filter new entries and only take the first three
     const newEntries = data
       .filter((item) => !loggedIds.has(item.id))
