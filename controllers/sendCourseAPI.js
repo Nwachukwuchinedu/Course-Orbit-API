@@ -22,9 +22,8 @@ const fetchCourses = async (req, res) => {
     });
 
        const rawResponse = await response.text(); // Get raw response as text
-       console.log("Raw Response:", rawResponse);
 
-       // Check if the response is empty or not JSON
+         // Check if the response is empty or not JSON
        if (
          !rawResponse ||
          response.headers.get("Content-Type") !== "application/json"
