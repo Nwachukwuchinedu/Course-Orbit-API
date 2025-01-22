@@ -43,7 +43,7 @@ const sendTelegramUpdates = async (req, res) => {
     if (!Array.isArray(data)) {
       throw new TypeError("Expected data to be an array");
     }
-
+      
     // Filter new entries and only take the first three
     const newEntries = data
       .filter((item) => !loggedIds.has(item.id))
