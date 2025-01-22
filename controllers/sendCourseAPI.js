@@ -1,4 +1,3 @@
-import axios from "axios";
 import dotenv from "dotenv";
 dotenv.config();
 
@@ -12,11 +11,17 @@ const fetchCourses = async (req, res) => {
   const apiUrl = process.env.COURSES_API_1; // Replace with the actual external API URL
 
   try {
-    const response = await axios.post(apiUrl, {
-      offset: currentOffset, // Send the current offset with the request
+    const response = await fetch(apiUrl, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        offset: currentOffset, // Send the current offset with the request
+      }),
     });
 
-    const data = response.data;
+    const data = await response.json();
 
     // Check if `data` is an array
     if (!Array.isArray(data)) {
@@ -30,9 +35,9 @@ const fetchCourses = async (req, res) => {
 
     // Mark entries as logged
     newEntries.forEach((entry) => {
-        console.log(entry.title);
-        
-        loggedIds.add(entry.id);
+      console.log(entry.title);
+
+      loggedIds.add(entry.id);
     });
 
     if (newEntries.length > 0) {
@@ -47,7 +52,6 @@ const fetchCourses = async (req, res) => {
 
     if (res) res.status(200).json(newEntries);
     return newEntries;
-    
   } catch (err) {
     console.error("Error fetching data:", err);
     if (res) res.status(500).send("Error processing data");
