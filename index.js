@@ -1,4 +1,6 @@
 import express from "express";
+import axios from "axios";
+import crypto from "crypto";
 import coursesRoute from "./routes/coursesRoute.js";
 import courseRoute from "./routes/courseRoute.js";
 import filterRoute from "./routes/filterRoute.js";
@@ -32,7 +34,7 @@ mongoose
 puppeteer.use(StealthPlugin());
 
 const app = express();
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3000;
 
 // Enable CORS for all routes before defining routes
 const allowedOrigins = [
@@ -75,6 +77,62 @@ app.get("/", (req, res) => {
 cron.schedule("*/10 * * * *", () => {
   console.log("Running coupon cleanup job...");
   cleanupCoupons();
+});
+
+
+
+// Token Schema
+const tokenSchema = new mongoose.Schema({
+  token: { type: String, required: true },
+  createdAt: { type: Date, default: Date.now },
+});
+
+const Token = mongoose.model("Token", tokenSchema);
+
+// Middleware to Validate Token
+const validateToken = async (req, res, next) => {
+  const token = req.headers.authorization?.split(" ")[1]; // Bearer <token>
+  if (!token) {
+    return res.status(401).json({ message: "No token provided" });
+  }
+
+  const tokenExists = await Token.findOne({ token });
+  if (!tokenExists) {
+    return res.status(401).json({ message: "Invalid or expired token" });
+  }
+
+  next();
+};
+
+// Endpoint to Generate Token
+app.post("/api/generate-token", async (req, res) => {
+  try {
+    // Generate a random token
+    const token = crypto.randomBytes(32).toString("hex");
+
+    // Save token to the database
+    const newToken = new Token({ token });
+    await newToken.save();
+
+    // Respond with the token
+    res.status(201).json({ token });
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: "Error generating token" });
+  }
+});
+
+// Protected Route
+app.get("/api/get-udemy-courses", validateToken, async (req, res) => {
+  try {
+    const response = await axios.post(
+      "https://course-orbit-api.onrender.com/api/courses",{}
+    );
+    res.json(response.data);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: "Error fetching courses data" });
+  }
 });
 
 app.listen(PORT, () => {
